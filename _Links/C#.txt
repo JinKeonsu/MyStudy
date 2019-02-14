@@ -1,2 +1,9 @@
+
+Introduction To LINQ And LINQ Syntaxes
+https://www.c-sharpcorner.com/article/introduction-to-linq-and-linq-syntaxes/
+
+An Overview Of LINQ To SQL
+https://www.c-sharpcorner.com/article/an-overview-of-linq-to-sql/
+
 LINQ to SQL: .NET Language-Integrated Query for Relational Data
 https://msdn.microsoft.com/en-us/library/bb425822.aspx

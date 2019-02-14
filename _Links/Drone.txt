@@ -1,0 +1,4 @@
+- http://ardupilot.org/dev/index.html
+- http://www.arduino.org/
+- https://developer.parrot.com/
+- http://developer.dji.com/mobile-sdk/
