@@ -1,0 +1,2 @@
+LINQ to SQL: .NET Language-Integrated Query for Relational Data
+https://msdn.microsoft.com/en-us/library/bb425822.aspx
