@@ -1,4 +1,16 @@
+//firmware open source
 - http://ardupilot.org/dev/index.html
-- http://www.arduino.org/
+- https://github.com/PX4/Firmware
+
+//application open source
+- http://python.dronekit.io/
+
+//developer site
 - https://developer.parrot.com/
 - http://developer.dji.com/mobile-sdk/
+
+//etc
+- http://www.arduino.org/
+
+//drones to learn how to code
+https://drone-maverick.com/2018/06/20/3-drones-to-learn-how-to-code/
