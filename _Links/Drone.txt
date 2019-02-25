@@ -12,5 +12,5 @@
 //etc
 - http://www.arduino.org/
 
-//drones to learn how to code
+//for beginner(learn how to code)
 https://drone-maverick.com/2018/06/20/3-drones-to-learn-how-to-code/
