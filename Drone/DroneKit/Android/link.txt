@@ -1,0 +1,2 @@
+//application open source
+- http://android.dronekit.io/
