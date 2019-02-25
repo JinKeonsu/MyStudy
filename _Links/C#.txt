@@ -23,6 +23,25 @@ https://www.codeproject.com/Articles/3225/TreeListView
 https://www.codeproject.com/Articles/23746/TreeView-with-Columns
 
 
+static void LinqTest()
+{
+    string[] StringArray = { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten" };
+
+    Console.WriteLine("Length == 4");
+    var strLength = StringArray.Where(str => str.Length == 4);
+    foreach (var str in strLength)
+    {
+        Console.WriteLine(str);
+    }
+
+    Console.WriteLine("");
+    Console.WriteLine("contain i");
+    var strContains = StringArray.Where(str => str.Contains("i"));
+    foreach (var str in strContains)
+    {
+        Console.WriteLine(str);
+    }
+}
 
 void TestHttpPost()
 {
@@ -37,12 +56,10 @@ void TestHttpPost()
     requestStream.Close();
 
     HttpWebResponse httpWebResponse = (HttpWebResponse)httpWebRequest.GetResponse();
-
     StreamReader streamReader = new StreamReader(httpWebResponse.GetResponseStream(), Encoding.GetEncoding("EUC-KR"));    // Encoding.GetEncoding("EUC-KR")
 
     string html = streamReader.ReadToEnd();
     streamReader.Close();
     httpWebResponse.Close();
-
     Console.WriteLine("html >> " + html);
 }
