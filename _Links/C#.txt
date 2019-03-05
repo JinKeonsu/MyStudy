@@ -63,3 +63,28 @@ void TestHttpPost()
     httpWebResponse.Close();
     Console.WriteLine("html >> " + html);
 }
+
+static void TestHttpPost2()
+{
+    //string postData = String.Format("gboard=y?windowType=popup?bdId=goodsreview?mode=write?goodsNo=1000005275?returnUrl=bdId=goodsreview&goodsNo=1000005275&orderGoodsNo=0?");
+    //http://wawooshop.com/board/popup_goods_board_write.php?mode=write&bdId=goodsreview&goodsNo=1000005274&orderGoodsNo=0
+    string postData = String.Format("gboard=y&windowType=popup&bdId=goodsreview&mode=write&goodsNo=1000005274&writerNm=Ronaldo&writerPw=1212&goodsPt=4&subject=cooooooooool&contents=thx&privacy=y");
+    HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create("http://wawooshop.com/board/board_ps.php");
+    byte[] sendData = Encoding.UTF8.GetBytes(postData);
+    httpWebRequest.ContentType = "application/x-www-form-urlencoded; charset=UTF-8";
+    httpWebRequest.Method = "POST";
+    httpWebRequest.ContentLength = sendData.Length;
+    Stream requestStream = httpWebRequest.GetRequestStream();
+    requestStream.Write(sendData, 0, sendData.Length);
+    requestStream.Close();
+
+    HttpWebResponse httpWebResponse = (HttpWebResponse)httpWebRequest.GetResponse();
+
+    StreamReader streamReader = new StreamReader(httpWebResponse.GetResponseStream(), Encoding.GetEncoding("EUC-KR"));    // Encoding.GetEncoding("EUC-KR")
+
+    string html = streamReader.ReadToEnd();
+    streamReader.Close();
+    httpWebResponse.Close();
+
+    Console.WriteLine("html >> " + html);
+}
