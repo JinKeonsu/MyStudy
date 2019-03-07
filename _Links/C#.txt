@@ -90,6 +90,14 @@ static void TestHttpPost2()
 
 static void TestHttpPost3()
 {
+    /*
+      http://www.viopapa.com
+      http://www.dcstore.co.kr
+      http://www.domemoa.co.kr
+      http://www.dsmk98.com
+      http://www.jinistore.net
+      http://www.goodome.co.kr
+    */
     string postData = String.Format("mode=add_review&goodsno=14079278&sno=undefined&name=Ronaldo&password=1212&point=4&subject=cooooooooool&contents=thx!!!");
     HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create("http://www.viopapa.com/shop/goods/indb.php");
     byte[] sendData = Encoding.UTF8.GetBytes(postData);
