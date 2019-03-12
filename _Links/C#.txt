@@ -64,42 +64,10 @@ void TestHttpPost()
     Console.WriteLine("html >> " + html);
 }
 
-static void TestHttpPost2()
-{
-//https://www.viopapa.com:14069/shop/goods/goods_review_register.php?mode=add_review&goodsno=14079278&sno=undefined
-    string postData = String.Format("gboard=y&windowType=popup&bdId=goodsreview&mode=write&goodsNo=1000005274&writerNm=Ronaldo&writerPw=1212&goodsPt=4&subject=cooooooooool&contents=thx&privacy=y");
-    HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create("http://wawooshop.com/board/board_ps.php");
-    byte[] sendData = Encoding.UTF8.GetBytes(postData);
-    httpWebRequest.ContentType = "application/x-www-form-urlencoded; charset=UTF-8";
-    httpWebRequest.Method = "POST";
-    httpWebRequest.ContentLength = sendData.Length;
-    Stream requestStream = httpWebRequest.GetRequestStream();
-    requestStream.Write(sendData, 0, sendData.Length);
-    requestStream.Close();
-
-    HttpWebResponse httpWebResponse = (HttpWebResponse)httpWebRequest.GetResponse();
-
-    StreamReader streamReader = new StreamReader(httpWebResponse.GetResponseStream(), Encoding.GetEncoding("EUC-KR"));    // Encoding.GetEncoding("EUC-KR")
-
-    string html = streamReader.ReadToEnd();
-    streamReader.Close();
-    httpWebResponse.Close();
-
-    Console.WriteLine("html >> " + html);
-}
-
 static void TestHttpPost3()
 {
-    /*
-      http://www.viopapa.com
-      http://www.dcstore.co.kr
-      http://www.domemoa.co.kr
-      http://www.dsmk98.com
-      http://www.jinistore.net
-      http://www.goodome.co.kr
-    */
     string postData = String.Format("mode=add_review&goodsno=14079278&sno=undefined&name=Ronaldo&password=1212&point=4&subject=cooooooooool&contents=thx!!!");
-    HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create("http://www.viopapa.com/shop/goods/indb.php");
+    HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create("../shop/goods/indb.php");
     byte[] sendData = Encoding.UTF8.GetBytes(postData);
     httpWebRequest.ContentType = "application/x-www-form-urlencoded; charset=UTF-8";
     httpWebRequest.Method = "POST";
