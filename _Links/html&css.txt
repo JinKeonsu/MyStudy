@@ -1,0 +1,17 @@
+
+# CSS #
+- CSS 적용 확인 사이트: CSS Zen Garden
+- 기본 형식 --> 선택자{ 속성: 값; }
+- 주석은 /* ... */
+- <link href="style.css" rel="stylesheet" type="text/css">
+- 클래스선택자 --> .클래스명
+- 아이디선택자 --> #아이디
+- W3C CSS 사이트 가보기
+- 브라우저 접두사 사용 <-- 각 브라우저별로 지원 여부 확인해서 다르게 적용
+- prefix-free.js
+- codepen <- web기반  html 편집기. 바로바로 확인 가능
+- 폰트를 import해서 쓸수 있다. https://fonts.google.com/earlyaccess
+- white-space: nowrap, pre, pre-wrap, pre-line
+- css에서도  li의 bullet 형태 및 값(ex:숫자, 알파벳 등)을 변경할 수 있다
+- background-attachment
+-
