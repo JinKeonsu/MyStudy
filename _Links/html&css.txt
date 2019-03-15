@@ -1,5 +1,7 @@
 
 # CSS #
+
+[일반]
 - CSS 적용 확인 사이트: CSS Zen Garden
 - 기본 형식 --> 선택자{ 속성: 값; }
 - 주석은 /* ... */
@@ -14,4 +16,56 @@
 - white-space: nowrap, pre, pre-wrap, pre-line
 - css에서도  li의 bullet 형태 및 값(ex:숫자, 알파벳 등)을 변경할 수 있다
 - background-attachment
--
+- background: linear-gradient / radial-gradient
+- https://www.cssmatic.com/gradient-generator
+- https://gradientgenerator.com/
+- HTML로 마케팅용 메일 작성. 한단계 낮은 버전의 html, css를 사용할것! 스타일시트를 사용하지 못할수 있으니 인라인으로 스타일을 적용하라!
+- 박스모델: 개발자도구에서 컨텐츠 영역에 대한 스타일을 볼 수 있음
+- display: block / inline / inline-block
+- border-style: solid / dotted / dashed / double
+- border-width, border-color, ...
+- box-shadow
+- CSS포지셔닝
+- z-index
+- column-width, column-count, column-rule, break-before
+- border-collapse
+- empty-cells: show/hide
+
+[HTML5 semantic tags]
+- header, nav, section, article, aside, iframe, footer, address
+
+[multimedia]
+- audio, video tag 사용
+- autoplay, controls, loop, muted, preload
+- Web VTT(video text track) 자막파일 확장자 -> .vtt
+- Video Caption Maker <-- 웹 상에서 비디오의 자막을 생성하는 툴
+- track 태그에서 vtt 파일 지정
+
+[CSS 선택자]
+- 하위선택자
+- 자식선택자 >
+- 인접형제선택자 +
+- 형제선택자 ~
+- 속성선택자 [속성]
+- 속성값선택자 [속성=값] [속성~=값] [속성|=값] [속성^=값] [속성$=값] [속성*=값]
+
+[가상클래스]
+- a 가상클래스 --> :link, :visited, :active, :hover, :focus <-- css 정의할때 순서대로 할 것
+- input 가상클래스 --> :enabled, :disabled, :checked
+- :nth-child(n), :nth-last-child(n)
+- :nth-child(n) vs nth-of-type(n) <-- 전체자식중에서 vs 해당태그유형중에서
+- :first-child, :last-child
+- ::first-line, ::first-letter, ::before, ::after
+
+[transform]
+- rotate
+- scale
+- skew
+- perspective
+
+[transition]
+- CSS로 다양한 사진 효과를 만들 수 있다*
+- transition-duration
+- transition-timing-function --> linear, ease, ease-in, ease-out, ease-in-out, cubic-bezier
+- 애니메이션정의 --> @keyframe, from(0%),..., to(100%)
+- 애니메이션지정 --> animation-name, animation-duration, animation-delay, animation-direction, animation-iteration-count, animation-timing-function
