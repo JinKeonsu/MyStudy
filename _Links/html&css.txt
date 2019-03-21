@@ -69,3 +69,24 @@
 - transition-timing-function --> linear, ease, ease-in, ease-out, ease-in-out, cubic-bezier
 - 애니메이션정의 --> @keyframe, from(0%),..., to(100%)
 - 애니메이션지정 --> animation-name, animation-duration, animation-delay, animation-direction, animation-iteration-count, animation-timing-function
+
+[반응형웹디자인]
+- viewport --> <meta name="viewport" content="<속성1=값>, <속성2=값>,...">
+- 가변그리드레이아웃
+- 고정그리드: px, 가변그리드: %
+- 글꼴 크기: em, rem 사용
+- 가변이미지, 가변비디오 <-- max-width
+
+[미디어쿼리] *제일 많이 사용*
+- ex) @media screen and(max-width:1024px)
+- css파일 사용 예1) head태그에 삽입. <link rel="stylesheet" media="미디어쿼리조건" href="css파일경로">
+- css파일 사용 예2) style태그에 삽입. @import url(css파일경로) 미디어쿼리조건
+
+[플렉서블 박스 레이아웃]
+- display --> flex, -webkit-box, -moz-box, -ms-flexbox, ... <--브라우저마다 이름이 달라!
+- flex-wrap
+- flex-flow
+- align-content
+- flex-grow, flex-shrink, flex-basis
+
+ 

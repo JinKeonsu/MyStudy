@@ -1,0 +1,68 @@
+
+- Google Apps Script
+- 크롬 개발자 도구
+
+[function]
+- document.Write
+- .toUpperCase
+
+[배열]
+- array 함수들 --> .push .concat .unshift .splice .shift .pop .sort .reverse
+
+[객체]
+- var grades = {};
+- var grades = new Object();
+- for(key in grades) { ... }
+- var grades = {
+     'list' : {'egoing': 10, 'k9980': 8, 'sorialgi': 80},
+     'show' : function() {
+        for(var name in this.list) {
+            console.log(name, this.list[name]);
+        }
+     }
+  }
+  grades.show();
+
+[모듈]
+- js 파일을 모듈화 할 수 있다.
+- 특정 js 파일에 함수를 모아 놓고, 다른 js 파일에서 그 파일을 require 후에 해당 함수를 호출하면 된다
+- exmodule.js --> exports.area(r) { return Math.PI * r * r;}
+- var v = require('exmodule.js');
+- v.area(4);
+
+[jQuery]
+- 웹페이지 제어하는 javascript 라이브러리
+- $로 시작. ex) $('#list li').text('coding everybody'); <-- 아이디가 list인 엘리먼트 하위의 li 태그들의 값을 'coding everybody'로 바꿈
+
+[정규표현식]
+- var pattern = new RegExp('a');
+- RegExp.exec()
+- RegExp.test()
+- String.match(pattern);
+- String.replace(pattern, replaceString);
+- 'abcdef'.replace(pattern, 'A'); --> result: Abcdef
+- 옵션 --> i: 대소문자구분안함, g: 모든 매칭 문자열 리턴(중복 있게)
+- 정규표현식 빌더, 테스트 제공하는 웹 사이트 있으니 잘 활용해볼것
+
+[함수지향]
+- 익명함수
+- javascript에서는 for문과 if문의 {} 사이에 선언된 변수는 지역변수가 아니라 전역변수이다
+- Ajax: Asynchronous javascript and XML
+- arguments.length, arguments[i]
+- Function.apply --> ex) sum(4, 2); === sum.apply(null, [4,2]);
+
+[전역객체]
+- window
+
+[상속]
+- .prototype --> 용도가 약속되어 있는 객체의 특수한 프로퍼티
+- prototype chain
+
+[표준내장객체] standard built-in objects
+- Object, Function, Array, String, Boolean, Number, Math, Date, RegExp
+
+[Object]
+- MDN(Mozilla Developer Network) 참조
+- Object.keys()
+- Object.toString()
+- hasOwnProperty()
