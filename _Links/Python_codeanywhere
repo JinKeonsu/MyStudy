@@ -1,3 +1,5 @@
+//inflearn Web2-Python
+
 - Container 생성(HTML 검색하여 우분투 선택)
 - py 파일 생성. 테스트용
 - py 파일 상단에 추가해줌 --> #!/usr/bin/python3
@@ -21,4 +23,12 @@
   sudo service apache2 restart
 - 브라우저에 주소 입력 --> https://web2-python-keonsujin907820.codeanyapp.com/hello.py --> hello.py에서 출력하는 값을 볼 수 있다!!!
 
-  
+
+// 나중에 공부해볼것들 //
+- CGI, FastCGI, WSGI 등은 잘 안쓴다
+- web framework를 사용하면 됨
+- Django, Flask, Tornado, ...
+- Database
+- Crawling: urllib, beautiful-soup
+- github.com -> Trending -> python 들어가보면 인기있는 플젝을 볼 수 있다
+-
