@@ -5,7 +5,7 @@
 //application open source
 - http://python.dronekit.io/
 
-//developer site
+//드론 developer site
 - https://developer.parrot.com/
 - http://developer.dji.com/mobile-sdk/
 
@@ -37,6 +37,13 @@
 - http://www.creartbot.com/ (국내)
 - http://robomation.net/ (국내)
 - https://www.ottodiy.com/  <-- 뭔가 내 의도와 비슷하다!!
+- https://modi.luxrobo.com/
+
+//코딩 교육 자료
+- https://www.helloapps.co.kr/education/
+- https://m.blog.naver.com/roboholic84/220297061644
+- http://opensource.kofac.re.kr/index.do
+
 
 [Trend]
 - https://www.steampoweredfamily.com/education/the-best-coding-toys-for-kids/
