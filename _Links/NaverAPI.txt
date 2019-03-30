@@ -1,0 +1,17 @@
+
+1) 데이터랩
+ 링크: https://developers.naver.com/products/datalab/
+
+2) 광고
+ 링크: https://naver.github.io/searchad-apidoc/#/guides
+ 샘플소스: https://github.com/naver/searchad-apidoc
+         //블로그
+         https://codingcoding.tistory.com/865
+         https://grlife.tistory.com/806
+
+3) 검색
+ - 알고리즘: https://join.shopping.naver.com/faq/list.nhn?catgCd=H00015
+
+4) 기타
+ 카카오 키워드 -> CLIX
+ 블로그 링크: https://tariat.tistory.com/173
