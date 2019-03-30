@@ -5,7 +5,7 @@
 //application open source
 - http://python.dronekit.io/
 
-//developer site
+//드론 developer site
 - https://developer.parrot.com/
 - http://developer.dji.com/mobile-sdk/
 
@@ -15,20 +15,46 @@
 
 
 //for beginner(learn how to code)
-https://drone-maverick.com/2018/06/20/3-drones-to-learn-how-to-code/
-
+- https://drone-maverick.com/2018/06/20/3-drones-to-learn-how-to-code/
 
 //코딩 블로거
-https://blog.naver.com/ssongyun486
+- https://blog.naver.com/ssongyun486
 
 //코딩 교구 몰
-https://robotscience.kr/main/index
-http://ainedu.co.kr
+- https://robotscience.kr/main/index
+- http://ainedu.co.kr
 
 //코딩 교구 제작사
-https://kocoafab.cc/
-http://koreasci.com/
-http://www.sciencebox.co.kr/kr/index.php
-http://eduino.kr/index.html
-http://www.firmtech.co.kr/default/index.php
-http://www.symatoys.com/
+- https://kocoafab.cc/
+- http://koreasci.com/
+- http://www.sciencebox.co.kr/kr/index.php
+- http://eduino.kr/index.html
+- http://www.firmtech.co.kr/default/index.php
+- http://www.symatoys.com/
+- http://www.mblock.cc/  (중국)
+- http://www.apptronics.net/ (국내)
+- http://chocopi.org/ (국내)
+- http://www.creartbot.com/ (국내)
+- http://robomation.net/ (국내)
+- https://www.ottodiy.com/  <-- 뭔가 내 의도와 비슷하다!!
+- https://modi.luxrobo.com/
+
+//코딩 교육 자료
+- https://www.helloapps.co.kr/education/
+- https://m.blog.naver.com/roboholic84/220297061644
+- http://opensource.kofac.re.kr/index.do
+
+
+[Trend]
+- https://www.steampoweredfamily.com/education/the-best-coding-toys-for-kids/
+- https://www.gearhungry.com/coding-toys-for-kids/
+
+[Etc Ref.]
+- free web site builder: https://www.strikingly.com/
+
+[찾아볼 것]
+- 칼만 필터
+- GPS, RTK, Galileo
+- 주파수 호핑 기법
+- KC인증
+- simulink support package (MathWorks)
