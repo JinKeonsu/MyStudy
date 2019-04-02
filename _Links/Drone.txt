@@ -30,8 +30,6 @@
 - http://www.sciencebox.co.kr/kr/index.php
 - http://eduino.kr/index.html
 - http://www.firmtech.co.kr/default/index.php
-- http://www.symatoys.com/
-- http://www.mblock.cc/  (중국)
 - http://www.apptronics.net/ (국내)
 - http://chocopi.org/ (국내)
 - http://www.creartbot.com/ (국내)
@@ -39,18 +37,22 @@
 - https://www.ottodiy.com/  <-- 뭔가 내 의도와 비슷하다!!
 - https://modi.luxrobo.com/
 
+
+//
+- http://www.symatoys.com/
+- http://www.mblock.cc/  (중국)
+
+
 //코딩 교육 자료
 - https://www.helloapps.co.kr/education/
 - https://m.blog.naver.com/roboholic84/220297061644
-- http://opensource.kofac.re.kr/index.do
+- http://opensource.kofac.re.kr/index.do  <-- 기초 교육 동영상 자료 많다. 꼭 보자
 
 
 [Trend]
 - https://www.steampoweredfamily.com/education/the-best-coding-toys-for-kids/
 - https://www.gearhungry.com/coding-toys-for-kids/
 
-[Etc Ref.]
-- free web site builder: https://www.strikingly.com/
 
 [찾아볼 것]
 - 칼만 필터
