@@ -1,4 +1,4 @@
-[Ch. 1]
+[CH-1]
 John! I can't believe it's you.
 Helen! We haven't seen each other in ages.
 So, how are things with you?
@@ -20,7 +20,7 @@ I know. You'd better crash my place tonight.
 I think I'm okay the drive.
 No, you drank too much. You should sleep over my place.
 
-[Ch. 2]
+[CH-2]
 What are we going to do this weekend?
 I don't know about you. But I have to run errands for my mother.
 No, we should do something special this weekend.
@@ -40,7 +40,7 @@ Then can you meet me?
 How about 7 o'clock?
 Great. Let's meet at the library.
 
-[Ch. 3]
+[CH-3]
 Jenny, I owe you an apology.
 What for?
 I heard about your surgery but didn't have a chance to visit you.
@@ -62,7 +62,7 @@ Why not?
 I'm broke.
 It's okay, I have money.
 
-[Ch. 4]
+[CH-4]
 Mom I can't get up.
 What's wrong?
 I don't feel well.
@@ -79,7 +79,7 @@ Are you going to watch TV all day?
 It's Sunday and all the good shows are on. There is nothing else I need to do anyway.
 But it's such a nice day. You are such a couch-potato. Let's go roller-blading at the beach.
 
-[Ch. 5]
+[CH-5]
 Do you know Gina is very sick?
 I saw her last night.
 Oh really? How come?
@@ -99,7 +99,7 @@ Yes, he did. But I threw them away because I'm allergic to flowers.
 He doesn't know?
 Apparently not. Let's keep the conversation between you and me.
 
-[Ch. 6]
+[CH-6]
 Are you ready to go home?
 No, I still have some work to do.
 Let's call it a day.
@@ -123,7 +123,7 @@ Let's take it out for a little while.
 You are right.
 Let's get back to work.
 
-[Ch. 7]
+[CH-7]
 Did you make any new year's resolutions?
 I still have last year's resolutions to finish.
 What was your new year's resolution last year?
@@ -147,7 +147,7 @@ My birthday was last week.
 I know. I should have given this to you earlier.
 Don't be sorry. Better late than never.
 
-[Ch. 8]
+[CH-8]
 What are you opt?
 If I tell you, do you promise to keep it under your hat?
 Hmm... OK!
@@ -166,7 +166,7 @@ You told mom you are going to the library to study. What are you doing here? Ren
 I was just taking a study break. Are you going to let on me?
 Of course I am. I'm gonna call mom right away.
 
-[Ch. 9]
+[CH-9]
 Did Sara tell him?
 Yes, she told him he wasn't her type. But, he still calls her.
 It is plain that she doesn't like him.
@@ -184,7 +184,7 @@ So far so good.
 I didn't understand of things. There was too much jargons.
 Yes, he sometimes confuses us.
 
-[Ch. 10]
+[CH-10]
 How do you want to sell your car?
 I'm asking 15,000 dollars and it's not negotiable.
 I see. Are you positive you want budget from that price? (@)
@@ -207,7 +207,7 @@ Is that all you brought?
 Take it or leave it.
 OK. Thank you. I'll take one. I guess beggars can't be choosers.
 
-[Ch. 11]
+[CH-11]
 I'm feeling extremely tired.
 Well, it's been a long day for you.
 Yeah, time sure flies when we are busy.
@@ -226,7 +226,7 @@ What are you doing here at the library so late?
 Oh, I have an English paper due tomorrow. It looks like I'm gonna full all night.(@) What are you studying for?
 Oh, I have a psycology mid-term. But I'm calling it a night. Because I'm pretty burned out.
 
-[Ch. 12]
+[CH-12]
 Someday when we are wiser
 when the world is older
 when we have learned

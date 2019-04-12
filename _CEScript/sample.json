@@ -1,0 +1,47 @@
+{
+  "CH_1": [
+    {
+      "Dialog1": [
+        "May I have your name?",
+        "Sandy.",
+        "Where are you from?",
+        "I'm from America.",
+        "How long have you been in Korea?",
+        "Only a few days.",
+        "I'm glad meet you. I hope you enjoy staying here."
+      ]
+    },
+    {
+      "Dialog2": [
+        "Welcome back to Korea. How are you?",
+        "I'm pretty good. It's nice to see you again.",
+        "Yes, same here. ",
+        "No, I'm here on vacation.",
+        "How long are you planning to stay?",
+        "Just two weeks."
+      ]
+    },
+    {
+      "Dialog3": [
+
+      ]
+    }
+  ],
+  "CH_2": [
+    {
+      "Dialog1": [
+
+      ]
+    },
+    {
+      "Dialog2": [
+
+      ]
+    },
+    {
+      "Dialog3": [
+
+      ]
+    }
+  ]
+}
