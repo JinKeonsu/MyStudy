@@ -1,4 +1,4 @@
-[CH-1]
+[0101]
 John! I can't believe it's you.
 Helen! We haven't seen each other in ages.
 So, how are things with you?
@@ -7,6 +7,7 @@ That sounds exciting!
 Not really. I missed my home.
 I understand you. Anyway I gotta go. Let's get together soon.
 
+[0102]
 Hi Susan, I haven't seen you in ages.
 Yes, it's been such a long time Bob.
 So, what have you been doing?
@@ -15,23 +16,26 @@ Oh really? You really have made something of yourself.
 What about you?
 I just got a job in NewYork.
 
+[0103]
 Wow, time flies. It's already 12 midnight.
 I know. You'd better crash my place tonight.
 I think I'm okay the drive.
 No, you drank too much. You should sleep over my place.
 
-[CH-2]
+[0201]
 What are we going to do this weekend?
 I don't know about you. But I have to run errands for my mother.
 No, we should do something special this weekend.
 I can't. I've already promised my mom that I'll help her.
 
+[0202]
 Wow. You are home early. Do you want to catch a movie tonight?
 I can't. I have errands to run.
 Like what?
 First I have to wash my car then I have to pick up my suit after that ...
 That's enough. We won't go to a movie.
 
+[0203]
 Well, are you ready for the exam?
 No, I need to the books tonight.
 Would you like to study together?
@@ -40,7 +44,7 @@ Then can you meet me?
 How about 7 o'clock?
 Great. Let's meet at the library.
 
-[CH-3]
+[0301]
 Jenny, I owe you an apology.
 What for?
 I heard about your surgery but didn't have a chance to visit you.
@@ -49,6 +53,7 @@ How do you feel now?
 I'm feeling much better, thanks.
 Take care of yourself.
 
+[0302]
 You stood me up.
 I'm really sorry. I owe you an apology.
 You owe me an explanation.
@@ -56,30 +61,33 @@ You won't believe what happened.
 Try me.
 I was pulled over for speeding and on top of that I got a scratch on my car. So I was late.
 
+[0303]
 Let's go out for pizza.
 I can't.
 Why not?
 I'm broke.
 It's okay, I have money.
 
-[CH-4]
+[0401]
 Mom I can't get up.
 What's wrong?
 I don't feel well.
 Let me see. You have a fever. Maybe I should call a doctor.
 That won't do any good. I might as well stay home and rest.
 
+[0402]
 Do you want to go out to eat?
 No, I had dinner already.
 How about dancing?
 No, I'm too tired. Let's think of something we can do together.
 Forget it. Let's just stay home.
 
+[0403]
 Are you going to watch TV all day?
 It's Sunday and all the good shows are on. There is nothing else I need to do anyway.
 But it's such a nice day. You are such a couch-potato. Let's go roller-blading at the beach.
 
-[CH-5]
+[0501]
 Do you know Gina is very sick?
 I saw her last night.
 Oh really? How come?
@@ -87,6 +95,7 @@ I can't say. She asked me keep quiet about it.
 You can tell me her secret safe with me.
 She found another job.
 
+[0502]
 Can you keep a secret?
 You can trust me. What's the secret?
 I took out all my college savings and bought a motorcycle.
@@ -94,12 +103,13 @@ Will you let me take for a ride?
 Yes, if you don't let on me.
 Your secret (is) safe with me.
 
+[0503]
 Did he send you flowers on valentines-day?
 Yes, he did. But I threw them away because I'm allergic to flowers.
 He doesn't know?
 Apparently not. Let's keep the conversation between you and me.
 
-[CH-6]
+[0601]
 Are you ready to go home?
 No, I still have some work to do.
 Let's call it a day.
@@ -107,6 +117,7 @@ OK, 1 minute. Let me grab my things.
 OK, we'd better go before the boss gives us more work.
 OK, I'm all set. Let's go.
 
+[0602]
 How's your day going?
 Oh, it's been one of those days.
 I'm sorry to hear that.
@@ -116,6 +127,7 @@ Thanks for listening.
 Why don't you call it a day?
 I can't. I have an important meeting tomorrow and I need to get ready for it.
 
+[0603]
 I'm tired of work.
 Me too. But we have a holiday coming up soon.
 I know. Can we call it a day?
@@ -123,7 +135,7 @@ Let's take it out for a little while.
 You are right.
 Let's get back to work.
 
-[CH-7]
+[0701]
 Did you make any new year's resolutions?
 I still have last year's resolutions to finish.
 What was your new year's resolution last year?
@@ -133,6 +145,7 @@ I know. So, what's your new year's resolutions?
 Same things.
 Join the club.
 
+[0702]
 Happy new year!
 Happy new year to you too, Mary.
 Can you meet me for drinks tonight?
@@ -142,12 +155,13 @@ Because I just made a new year's resolution to stop drinking. So, that's out of 
 That's no fun.
 We don't need to drink to have a good time.
 
+[0703]
 Happy birthday. Here is a gift for you.
 My birthday was last week.
 I know. I should have given this to you earlier.
 Don't be sorry. Better late than never.
 
-[CH-8]
+[0801]
 What are you opt?
 If I tell you, do you promise to keep it under your hat?
 Hmm... OK!
@@ -156,35 +170,39 @@ I knew your opt something no good. I'm gonna tell mom and dad about this.
 I knew I shouldn't have told you anything.
 I would find out sooner or later anyway.
 
+[0802]
 Why do you need the car this weekend? You are opt something. Aren't you?
 No, I'm not opt anything. My friend and I are going fishing. That's all.
 I have a feeling that you are not telling me the truth.
 Oh, OK. If you must know, my friend and I are going on a double date.
 I knew you had something of your sleeves.
 
+[0803]
 You told mom you are going to the library to study. What are you doing here? Renting videos?
 I was just taking a study break. Are you going to let on me?
 Of course I am. I'm gonna call mom right away.
 
-[CH-9]
+[0901]
 Did Sara tell him?
 Yes, she told him he wasn't her type. But, he still calls her.
 It is plain that she doesn't like him.
 I don't think he's going to give up.
 She has to make it crystal clear to him that she doesn't like him.
 
+[0902]
 Are there any questions?
 Can you repeat the homework assignment please?
 Of course. The assignment is to bring a book and share with the class on Monday.
 Do we have to read it first?
 Of course you do. You can't share with the class if you haven't read yourself. Am I making myself clear?
 
+[0903]
 Did you understand professor's lecture?
 So far so good.
 I didn't understand of things. There was too much jargons.
 Yes, he sometimes confuses us.
 
-[CH-10]
+[1001]
 How do you want to sell your car?
 I'm asking 15,000 dollars and it's not negotiable.
 I see. Are you positive you want budget from that price? (@)
@@ -192,6 +210,7 @@ I'm going to have to stand from on that price. 15,000 dollars! Take it or leave 
 I'd like to take it for a test drive before I decide.
 That will be fine with me. I'll be here until 6 pm.
 
+[1002]
 Are you sure that's the best price you can give?
 Yes, take it or leave it. What will it be?
 I'm not sure if it's a good deal.
@@ -199,6 +218,7 @@ Believe me. You won't find a better price in town.
 OK. Give me two of those and I also take a bag of potato chips too.
 I've never met anyone who want to bargain over a couple of hotdogs before. But I'm glad we can do business together.
 
+[1003]
 I can't believe I forgot my lunch.
 Don't worry about it. I'll share mine with you.
 What did you bring?
@@ -207,7 +227,7 @@ Is that all you brought?
 Take it or leave it.
 OK. Thank you. I'll take one. I guess beggars can't be choosers.
 
-[CH-11]
+[1101]
 I'm feeling extremely tired.
 Well, it's been a long day for you.
 Yeah, time sure flies when we are busy.
@@ -216,17 +236,19 @@ I know. I have an early appointment in the morning.
 Good night!
 Good night! See you in the morning.
 
+[1102]
 This was a great party. I really had a great time.
 Yeah, I wish we could stay a little longer but it's getting late. Let's call it a night.
 Time sure flies when we are having fun.
 How are you getting home?
 Oh, I'm going to take a cab.
 
+[1103]
 What are you doing here at the library so late?
 Oh, I have an English paper due tomorrow. It looks like I'm gonna full all night.(@) What are you studying for?
 Oh, I have a psycology mid-term. But I'm calling it a night. Because I'm pretty burned out.
 
-[CH-12]
+[pop-song]
 Someday when we are wiser
 when the world is older
 when we have learned
