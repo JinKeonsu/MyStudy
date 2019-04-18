@@ -29,3 +29,98 @@ Isn't it on the bookshelf?
 No, the bookshelf is full of your books.
 Then, you should look in your room.
 Look, it's right next to your toolbox.
+
+[0501]
+Guus! Can you call my boss and tell him I can't go to work today?
+What's wrong?
+I got a bad cold.
+Why don't you go to see a doctor?
+I think I should. I've been stuck with this cold for a week now.
+Let me make you a cup of hot tea.
+Thanks.
+
+[0601]
+Hello.
+Sam, can you come and get me?
+Where are you?
+My car went into a mud puddle and I have a flat tire.
+I wish I could. But my car is in the body shop.
+Well, I'd better take a bus then.
+
+[0701]
+What do you like to eat?
+Well, I'd like to eat fried chicken and a piece of pineapple pie.
+That sounds good. Let's go out to buy those.
+Do you know where we can buy them?
+I know there is a super-store behind the citibank.
+
+[0801]
+Hi, Amy! How about going out to dinner?
+Well, I got to go my cousin's house by 9 o'clock. It's on South Street.
+I heard that there is a nice restaurant near that Street. I can meet you there after 9 if you want.
+Sure, I can drop around and have a good dinner then.
+That's good. I'll call you.
+
+[0901]
+Hey, are you going camping?
+Yes, I'm going to lie on the beach sun bathing. Jealous, huh?
+What are you taking in your pack?
+I bought some peaches, grapes, tomatoes and pears.
+You must be a real pig.
+
+[1001]
+Did you take father's new camera?
+Yes, I was only going to borrow it for a few hours.
+You'd better return it soon. He is in a bad mood.
+Maybe I should wait till he cools down.
+What do you mean?
+He'll hit the ceiling if he finds out I just broke the camera.
+
+[1101]
+Would you care for some beer dear?
+Sorry, I didn't hear you.
+Do you want to beer?
+Sure, bring me some.
+Maybe I didn't make myself clear. I wanted to go out for a drink.
+Why can't we stay home and drink?
+Well, the atmosphere isn't right.
+Okay, you win. Let's go.
+
+[1201]
+Good evening, Mr. Valentino! What can I do for you?
+I have a very bad back pain. It has been bothering me since November. What can I do about it?
+Run 5 miles a day.
+... (a few days after)
+Hello, this is Bob Valentino.
+Hi, how is your back Bob?
+My back is doing fine. But, now I'm 35 miles away from home.
+
+[1301]
+Hi Selma! Thanks for the birthday card and the 30 dollars you sent me.
+Sorry to miss your birthday party. I've been sick.
+How do you feel now?
+To tell you the truth, my flu is getting worse.
+Oh, dear! I hope you'll get better soon. Take care of yourself.
+
+[1401]
+What kind of flowers do you like?
+I like roses. Actually, I'm raising some roses now.
+Really? Isn't it very difficult?
+No, it's very easy and I'm getting more interested as time goes by.
+
+[1501]
+Do you have plans for summer vacation this year?
+Yes, we are going to travel around California.
+How exciting! What places will you visit?
+After we visit San-Francisco and Disney Land, we will go to the Grand Canyon, Yellow Stone and Las Vegas.
+When will you be back?
+I'll be back at the end of July.
+Okay, have a nice trip.
+
+[1601]
+What movie did you see last night, Jane?
+We saw a new version of King-Kong.
+A new one? I'm a big fan of King-Kong. What was it about this time?
+A plane carrying a famous singer crashed in the jungle of Congo.
+Oh, I know what happens next. She starts to run for help but the sun is so hot that the poor thing falls down.
+That's right.
