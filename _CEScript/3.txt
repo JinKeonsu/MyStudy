@@ -1,3 +1,4 @@
+후반부(15분 뒤)에 다이얼로그가 2개씩 있다.
 [0101]
 Great party! Isn't it?
 Yes, it is.
@@ -19,4 +20,129 @@ Thanks. Well, where are you from?
 I'm from Austin Texas.
 
 [0201]
-May I speak to Mr. Spark?
+Good morning! This is Star company. May I help you?
+Yes, this is Vincent. May I speak to Mr. Spark?
+Well, Mr. Park is out of town on business. Can I take your message?
+No, I want to talk to Mr. Spark.
+There is no one by that name. You must have the wrong number.
+Oh, I'm sorry to bother you. Bye.
+
+[0202]
+Blue Cafe, can I help you?
+Hi, this is Jim and I just got the message. Can I speak to Mr. John.
+Can you hold for a moment?
+Sure, thank you.
+If there is Mr. John. Please, walk up to the counter.
+Hello, this he.
+
+[0301]
+May I help you?
+Yes, I'm looking for something for my wife.
+Do you have anything special in mind?
+Not really. Do you have anything to recommend?
+I think your wife will love this new perfume.
+Can I try it on?
+Sure.
+
+[0302]
+Where can I find toothpaste?
+It's on iron number 7 top shelf.
+Thanks.
+How much do I owe you?
+Everything comes out to 53 dollars and 40 cents. How would you like to pay for it?
+I'll pay with the credit card. Do you accept credit card?
+Sure.
+Here you are.
+
+[0401]
+FirstEye Hotel. May I help you?
+I'd like to reserve a room. Do you have any vacancies?
+Yes, we do. But, double rooms are all booked up.
+Single room will be fine.
+Please fill in this form. What time will you be checking in?
+I'd like to check in 8 tonight. Can you give me a wake up call tomorrow morning 6 o'clock?
+Sure, Mr. Black.
+
+[0402]
+Are you checking out?
+Yes, here is the key.
+Thank you, room 319. Your bills comes out to 532 dollars. Would you check and sign on it?
+Sure, here it is.
+Thank you for staying.
+I've enjoyed my stay very much.
+
+[0501]
+Do you have an account at this bank?
+No.
+Do you have any forms of identification?
+Yes, I have my passport.
+How much is the check you want to cash?
+I'd like to break this travelers check for 300 dollars.
+How do you want to your money?
+Give me five fifties and the rest is smaller bills. Could you include some small changes too?
+
+[0502]
+I want to withdraw 100 dollars. Can I also apply for a cash card?
+Do you have an account with us?
+Yes, I have. Here is the account number on my personal check.
+That's good.
+Can I also make a deposit at the ATM?
+Sure, first insert your card and then enter your personal identification number. The screen on the machine will show the rest.
+
+[0601]
+Good evening sir, do you have a reservation?
+Yes, under the name of Park.
+Wait a minute please. Yes, at 6:30 for 10. With this table be okay for you?
+Do you have a table by the window?
+I'm sorry sir, window tables are all book up for this evening.
+
+[0602]
+Are you ready to order?
+Yes, I am.
+What would you like to have as a starter?
+I'll have some cream of mushroom soup.
+And the follow?
+Let me have a sirloin steak.
+How would you like your steak done?
+Medium please.
+Would you like any dessert?
+I'll decide later, thanks.
+How is everything?
+Great. Can I have the check please?
+Yes sir, I'll be back in a moment.
+
+[0701]
+I'd like to rent a car please.
+What kind would you like to rent today?
+Mid size will be fine. I don't have any preferences for particular model. How much is it for that car?
+It's 19.99 plus tax. How long will you be using it sir?
+One week. Is the other insurance included?
+Sure.
+
+[0702]
+I'd like to rent a car.
+Have you booked on already?
+No, I haven't.
+What type of car do you need?
+I like to take economic car for one day.
+May I see your international driver's license?
+Here it is. What time shall I return the car?
+By tomorrow night, 9 o'clock.
+
+[0801]
+University clinic! May I help you?
+I would like to make an appointment for a checkup.
+Okay. May I ask your problems you have, please?
+I seem to have digestion problem.
+Okay, Dr. Thomson is available on the 10th 2 p.m.
+That would be fine.
+
+[0802]
+I had a high fever this morning.
+Let me take a look at you. Do you feel chilly?
+Yes, I've got aches and pains all over my body and I feel radiated.
+Do you have any other symptoms?
+I feel a little dizzy.
+How long have you had the pain?
+From 2 days ago.
+Hmm. You should be admitted right away.

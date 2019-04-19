@@ -1,2 +1,12 @@
 iOS BLE
 https://codeburst.io/getting-started-with-bluetooth-low-energy-on-ios-ada3090fc9cc
+
+GAP
+  - 1:N
+  - broadcasting
+
+GATT
+  - 1:1
+  - connected & transfer complex data
+
+service UUID & characteristic UUID
