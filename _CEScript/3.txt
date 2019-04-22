@@ -146,3 +146,21 @@ I feel a little dizzy.
 How long have you had the pain?
 From 2 days ago.
 Hmm. You should be admitted right away.
+
+[0901] 18:20
+Excuse me, I'm not familiar with this area. Can you help me with directions?
+Sure.
+Thanks. Where is the subway station?
+It's on the corner of Bell Street and fifth Street.
+Can you tell me how to get there?
+Walk straight and turn left at the first corner.
+How far is it from here?
+It's in walking distance. It's about a 10 minutes walk.
+
+[0902]
+Does this bus go to Manhattan?
+Yes, maam.
+I'm going to go Central Park.
+Then you should take the bus number 5. This bus passes through Central Park without stopping.
+Where can I catch the number 5 bus?
+You can take right here.
