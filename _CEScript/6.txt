@@ -1,0 +1,21 @@
+바로 처음부터 dialog 시작
+
+[0101]
+Oh, good afternoon!
+Good afternoon!
+We haven't met before. Have we? My name is Thomas Davis and I'm the new export sales manager.
+Oh, yes. I've heard a lot about you. I'm Cindy Jones, Mr. Brown's secretary. Nice to meet you.
+Pleased to meet you too. Is Mr. Brown at the office?
+Oh, yes. I'll let her know you are here right now. Please have a sit and wait for a moment.
+Okay, thank you.
+
+[0201]
+
+
+[0301]
+
+
+[0401]
+
+
+[0501]

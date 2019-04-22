@@ -159,8 +159,80 @@ It's in walking distance. It's about a 10 minutes walk.
 
 [0902]
 Does this bus go to Manhattan?
-Yes, maam.
-I'm going to go Central Park.
+Yes, ma'am.
+I'm going to go to Central Park.
 Then you should take the bus number 5. This bus passes through Central Park without stopping.
 Where can I catch the number 5 bus?
 You can take right here.
+
+[1001]
+Hello, I'm calling about your apartment ad.
+How may I assist you?
+I'm looking for a one bedroom apartment.
+We have two available. One is on the second floor and the other one is on the third floor.
+How much is the rent?
+It's 500 dollars a month plus electricity.
+Can I see the rooms today?
+Sure. I'm here between 10 a.m. and 5 p.m.
+Where is the apartment located?
+It's behind the YMCA downtown.
+
+[1002]
+Hello, are you still looking for a roommate?
+Yes, are you a student?
+Yes, I am. Is it furnished?
+Yes, it's a furnish 2 bedroom apartment. You have your own room and the bath.
+How much is the rent?
+400 dollars a month including utilities.
+How much do I have to put down?
+100 dollars.
+
+[1101]
+May I see your passport please?
+Sure. Here it is.
+What kind of work do you do in Korea?
+I'm a teacher.
+What's the purpose of your trip?
+I'm here on business.
+How long will you be staying here?
+I'll be here for about a week.
+
+[1102]
+Next. May I see your passport and customs form please?
+Here you are.
+Do you have anything to declare?
+I have one bottle of whiskey.
+How much is this item in dollars?
+About 100 dollars.
+Would you mind opening your bag?
+No, not at all.
+Let me see. There will be no duty charges for these items.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this is end
