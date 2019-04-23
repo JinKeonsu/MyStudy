@@ -69,29 +69,42 @@
     }
 }
 
+#pragma mark - Anim
+
 - (IBAction)buttonClicked:(id)sender {
-    [self showFlowerToggle:@"2"];
+    dispatch_async(dispatch_get_main_queue(), ^{
+        [self showFlowerToggle:@"2"];
+    });
+}
+
+- (IBAction)secondButtonClicked:(id)sender {
+    dispatch_async(dispatch_get_main_queue(), ^{
+        [self showSecondFlowerToggle:@"1"];
+    });
 }
 
 - (void)showFlowerToggle:(NSString*)sOption
 {
     static int nCount = 1;
 
-    if(nCount>5) return;
+    if(nCount>5) {
+        nCount = 0;
+        return;
+    }
 
     UIImage *imgOff = [UIImage imageNamed:@"66"];
     UIImage *imgON= ([sOption isEqualToString:@"1"]) ? [UIImage imageNamed:@"67"] :[UIImage imageNamed:@"68"];
-    [UIView transitionWithView:self.iconImage
+    [UIView transitionWithView:self.firstImage
                       duration:1.f
                        options:UIViewAnimationOptionTransitionCrossDissolve
                     animations:^{
-                        self.iconImage.image = imgON;
+                        self.firstImage.image = imgON;
                     } completion:^(BOOL finished){
-                        [UIView transitionWithView:self.iconImage
+                        [UIView transitionWithView:self.firstImage
                                           duration:1.f
                                            options:UIViewAnimationOptionTransitionCrossDissolve
                                         animations:^{
-                                            self.iconImage.image = imgOff;
+                                            self.firstImage.image = imgOff;
                                         } completion:^(BOOL finished){
                                             nCount++;
                                             [self performSelector:@selector(showFlowerToggle:) withObject:sOption];
@@ -101,6 +114,36 @@
      ];
 }
 
+- (void)showSecondFlowerToggle:(NSString*)sOption
+{
+    static int nCount2 = 1;
+
+    if(nCount2>5) {
+        nCount2 = 0;
+        return;
+    }
+
+    UIImage *imgOff = [UIImage imageNamed:@"66"];
+    UIImage *imgON= ([sOption isEqualToString:@"1"]) ? [UIImage imageNamed:@"67"] :[UIImage imageNamed:@"68"];
+    [UIView transitionWithView:self.secondImage
+                      duration:1.f
+                       options:UIViewAnimationOptionTransitionCrossDissolve
+                    animations:^{
+                        self.secondImage.image = imgON;
+                    } completion:^(BOOL finished){
+                        [UIView transitionWithView:self.secondImage
+                                          duration:1.f
+                                           options:UIViewAnimationOptionTransitionCrossDissolve
+                                        animations:^{
+                                            self.secondImage.image = imgOff;
+                                        } completion:^(BOOL finished){
+                                            nCount2++;
+                                            [self performSelector:@selector(showSecondFlowerToggle:) withObject:sOption];
+                                        }
+                         ];
+                    }
+     ];
+}
 
 
 #pragma mark - CB
