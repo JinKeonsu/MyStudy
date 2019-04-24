@@ -10,3 +10,6 @@ GATT
   - connected & transfer complex data
 
 service UUID & characteristic UUID
+
+
+https://www.soobakc.com/knowledge/entrance2016/index.asp
