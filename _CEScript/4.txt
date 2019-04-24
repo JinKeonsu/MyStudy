@@ -246,7 +246,7 @@ Oh, I'm going to take a cab.
 [1103]
 What are you doing here at the library so late?
 Oh, I have an English paper due tomorrow. It looks like I'm gonna full all night.(@) What are you studying for?
-Oh, I have a psycology mid-term. But I'm calling it a night. Because I'm pretty burned out.
+Oh, I have a psychology mid-term. But I'm calling it a night. Because I'm pretty burned out.
 
 [pop-song]
 Someday when we are wiser
