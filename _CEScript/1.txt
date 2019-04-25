@@ -1,13 +1,14 @@
-[0101]
+[0101] 103-254, 1230-1259
 May I have your name?
 Sandy.
 Where are you from?
 I'm from America.
 How long have you been in Korea?
 Only a few days.
-I'm glad meet you. I hope you enjoy staying here.
+I'm glad to meet you. I hope you enjoy staying here.
+Thank you.
 
-[0102]
+[0102] 1301-1453, 2454-2526
 Welcome back to Korea. How are you?
 I'm pretty good. It's nice to see you again.
 Yes, same here. Are you here on business this time?
@@ -15,7 +16,7 @@ No, I'm here on vacation.
 How long are you planning to stay?
 Just two weeks.
 
-[0201]
+[0201] 110-300, 1350-1422
 What do you do for a living?
 I'm a computer programmer.
 Wow. Are you making progress?
@@ -24,7 +25,7 @@ Why? Are you going to change your job?
 Yes, I'm tired of my job.
 Well, good luck.
 
-[0202]
+[0202] 1430-1635, 2631-2708
 How is your business going?
 It's getting better. Where are you working now?
 I'm working at the bank.
