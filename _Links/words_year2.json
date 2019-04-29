@@ -1,0 +1,22 @@
+{
+    "DAY01": [
+        {"NO": 1, "ENG":"finish", "KOR":"자전거"},
+        {"NO": 2, "ENG":"homework", "KOR":"예쁜, 꽤, 매우"},
+        {"NO": 3, "ENG":"on time", "KOR":"경찰관"},
+        {"NO": 18, "ENG":"favorite", "KOR":"가장 좋아하는"},
+        {"NO": 19, "ENG":"leave", "KOR":"떠나다"},
+        {"NO": 20, "ENG":"return", "KOR":"돌아오다"},
+        {"NO": 36, "ENG":"wonder", "KOR":"궁금해하다, ~이 아닐까 생각하다"},
+        {"NO": 37, "ENG":"mean", "KOR":"의미하다, 의도하다"},
+        {"NO": 38, "ENG":"important", "KOR":"중요한"},
+        {"NO": 54, "ENG":"advice", "KOR":"조언, 충고"},
+        {"NO": 55, "ENG":"ask", "KOR":"묻다, 요청하다"},
+        {"NO": 56, "ENG":"question", "KOR":"질문"},
+        {"NO": 71, "ENG":"history", "KOR":"역사"},
+        {"NO": 72, "ENG":"surprising", "KOR":"놀라운"},
+        {"NO": 73, "ENG":"price", "KOR":"가격"},
+        {"NO": 89, "ENG":"happen", "KOR":"(일이)발생하다"},
+        {"NO": 90, "ENG":"unkind", "KOR":"불쾌한, 불친절한"},
+        {"NO": 91, "ENG":"awesome", "KOR":"경탄할 만한"}
+    ]
+}
