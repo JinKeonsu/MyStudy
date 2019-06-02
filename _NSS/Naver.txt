@@ -1,9 +1,4 @@
 
-[API]
-data lab: https://developers.naver.com/products/datalab/
-search ad: https://naver.github.io/searchad-apidoc/#/guides
-검색 알고리즘: https://join.shopping.naver.com/faq/list.nhn?catgCd=H00015
-
 
 [강의 - 스마트스토어 활용하기]
 
