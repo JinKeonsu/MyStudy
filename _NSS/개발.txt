@@ -1,0 +1,14 @@
+C#)
+1. gif and threading
+- https://stackoverflow.com/questions/31338288/animated-gif-in-windows-form-while-executing-long-process
+- https://stackoverflow.com/questions/36076924/how-can-i-display-a-loading-control-while-a-process-is-waiting-for-be-finished
+-
+
+2. Regular Expressions
+- If you have intermixed non-digit characters (i.e. 1231a23v) and want to keep every digit, use the regex [^\d] to replace non-digit characters.
+- https://stackoverflow.com/questions/11499159/how-to-extract-number-from-string-c-sharp
+- https://www.dotnetperls.com/regex-split-numbers
+
+3. DateTime related...
+- DateTime result = DateTime.ParseExact(yourdatestring, "yy/MM/dd h:mm:ss tt", CultureInfo.InvariantCulture);
+- https://www.c-sharpcorner.com/UploadFile/manas1/string-to-datetime-conversion-in-C-Sharp/
