@@ -12,3 +12,9 @@ C#)
 3. DateTime related...
 - DateTime result = DateTime.ParseExact(yourdatestring, "yy/MM/dd h:mm:ss tt", CultureInfo.InvariantCulture);
 - https://www.c-sharpcorner.com/UploadFile/manas1/string-to-datetime-conversion-in-C-Sharp/
+
+
+
+(쇼핑관련 데이터분석)
+- http://itemscout.io
+- http://helpstore.shop
