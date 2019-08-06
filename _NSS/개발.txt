@@ -15,6 +15,17 @@ C#)
 
 
 
-(쇼핑관련 데이터분석)
+(쇼핑관련 데이터분석 제공하는 사이트)
 - http://itemscout.io
 - http://helpstore.shop
+
+
+
+(판매왕프로그램-아이디어 기획)
+1) 검색량 조회 대상 확대
+- 카카오 키워드 검색량(https://clix.biz.daum.net/ad/proposal/keyword)
+- 구글 키워드 검색량
+
+2) 도매 위탁 상품 관리
+- 자동 재고 체크
+- 일정 주기별, 자동으로 가격 조정

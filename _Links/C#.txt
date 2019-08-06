@@ -94,3 +94,22 @@ static void TestHttpPost3()
     int card = rnd.Next(52);     // creates a number between 0 and 51
     */
 }
+
+
+
+
+
+
+
+iOS BLE
+https://codeburst.io/getting-started-with-bluetooth-low-energy-on-ios-ada3090fc9cc
+
+GAP
+  - 1:N
+  - broadcasting
+
+GATT
+  - 1:1
+  - connected & transfer complex data
+
+service UUID & characteristic UUID
