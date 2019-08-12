@@ -13,6 +13,10 @@ C#)
 - DateTime result = DateTime.ParseExact(yourdatestring, "yy/MM/dd h:mm:ss tt", CultureInfo.InvariantCulture);
 - https://www.c-sharpcorner.com/UploadFile/manas1/string-to-datetime-conversion-in-C-Sharp/
 
+4. async task
+- https://docs.microsoft.com/ko-kr/dotnet/csharp/async
+
+
 
 
 (TrendSearch)
