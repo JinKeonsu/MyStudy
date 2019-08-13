@@ -1,0 +1,23 @@
+
+[Language]
+# TypeScript
+
+# React
+
+# Python
+
+# Swift
+
+# Kotlin
+
+
+[Skill]
+# Big Data
+
+# Data Visualization
+
+# Machine Learning
+
+# Drone
+
+# Block Chain
