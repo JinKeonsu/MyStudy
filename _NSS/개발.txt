@@ -15,6 +15,7 @@ C#)
 
 4. async task
 - https://docs.microsoft.com/ko-kr/dotnet/csharp/async
+- https://www.youtube.com/watch?v=2moh18sh5p4
 
 
 
