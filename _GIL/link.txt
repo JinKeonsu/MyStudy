@@ -5,3 +5,12 @@ https://books.google.co.kr/books?id=QuqRDwAAQBAJ&pg=PT53&lpg=PT53&dq=%EB%8C%80%E
 
 2. 메가스터디에서 정시 모의지원:
 https://www.megastudy.net/mobile/smart/entinfo/report/jiwon/main.asp
+
+
+
+3. DB
+Name: SB2H.GIL
+Host: 103.80.132.110
+Port: 3306
+
+
