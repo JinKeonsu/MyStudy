@@ -16,8 +16,39 @@ C#)
 4. async task
 - https://docs.microsoft.com/ko-kr/dotnet/csharp/async
 - https://www.youtube.com/watch?v=2moh18sh5p4
+- https://stackoverflow.com/questions/42931401/using-backgroundworker-with-progressbar-in-windowsform-with-different-classes
 
 
+5. datagridview
+    dataGridView1.BorderStyle = BorderStyle.None;
+    dataGridView1.AlternatingRowsDefaultCellStyle.BackColor = Color.FromArgb(238, 239, 249);
+    dataGridView1.CellBorderStyle = DataGridViewCellBorderStyle.SingleHorizontal;
+    dataGridView1.DefaultCellStyle.SelectionBackColor = Color.DarkTurquoise;
+    dataGridView1.DefaultCellStyle.SelectionForeColor = Color.WhiteSmoke;
+    dataGridView1.BackgroundColor = Color.White;
+
+    dataGridView1.EnableHeadersVisualStyles = false;
+    dataGridView1.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
+    dataGridView1.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(20, 25, 72);
+    dataGridView1.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
+
+6. title align
+private void UpdateTextPosition()
+{
+    Graphics g = this.CreateGraphics();
+    Double startingPoint = (this.Width / 2) - (g.MeasureString(this.Text.Trim(), this.Font).Width / 2);
+    Double widthOfASpace = g.MeasureString(" ", this.Font).Width;
+    String tmp = " ";
+    Double tmpWidth = 0;
+
+    while ((tmpWidth + widthOfASpace) < startingPoint)
+    {
+        tmp += " ";
+        tmpWidth += widthOfASpace;
+    }
+
+    this.Text = tmp + this.Text.Trim();
+}
 
 
 (TrendSearch)
