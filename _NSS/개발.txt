@@ -50,6 +50,29 @@ private void UpdateTextPosition()
     this.Text = tmp + this.Text.Trim();
 }
 
+7. delivery count
+static void PreviewTest()
+{
+    string html = string.Empty;
+    string url = @"https://m.smartstore.naver.com/hong_case/products/4629062410?NaPm=ct%3Dk032f488%7Cci%3De36e593209299d21530a951c9e18f665bbd8c5e6%7Ctr%3Dslct%7Csn%3D276371%7Cic%3D%7Chk%3D5bdae7503ff8d1e9801ae777098db0272f7f0e8f";
+
+    HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
+    request.UserAgent = "Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36";
+    //request.AutomaticDecompression = DecompressionMethods.GZip;
+
+    using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
+    using (Stream stream = response.GetResponseStream())
+    using (StreamReader reader = new StreamReader(stream))
+    {
+        html = reader.ReadToEnd();
+
+        File.WriteAllText(@"/Users/jks/Project/_MyProjects/LocalTest/CSharpConsole/path.txt", html);
+    }
+
+    Console.WriteLine(html);
+}
+
+
 
 (TrendSearch)
 0. 이슈
