@@ -72,6 +72,18 @@ static void PreviewTest()
     Console.WriteLine(html);
 }
 
+8. web browser
+WebBrowser Control에서 내용이 많아지는 경우에만 스크롤이 보이도록 해주고 싶을 때 아래 참고.
+// 스크롤을 사용하기 위해 기본적으로 속성 설정을 해주고.
+ScrollBarsEnabled = "True"
+// DocumentCompleted 이벤트에 아래와 같이 스크롤 설정을 해준다.
+private void wbNotice_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+{
+  this.wbNotice.Document.Body.Style = "overflow:auto";
+}
+
+
+
 
 
 (TrendSearch)
