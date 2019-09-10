@@ -7,10 +7,21 @@ https://books.google.co.kr/books?id=QuqRDwAAQBAJ&pg=PT53&lpg=PT53&dq=%EB%8C%80%E
 https://www.megastudy.net/mobile/smart/entinfo/report/jiwon/main.asp
 
 
-
 3. DB
 Name: SB2H.GIL
 Host: 103.80.132.110
 Port: 3306
+
+
+4. React 
+https://ko.reactjs.org/docs/introducing-jsx.html
+https://velopert.com/reactjs-tutorials
+https://programmers.co.kr/learn/courses/944
+https://forest71.tistory.com/183
+
+
+5. Javascript
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide
+
 
 
