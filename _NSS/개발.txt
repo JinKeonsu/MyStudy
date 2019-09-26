@@ -19,38 +19,7 @@ C#)
 - https://stackoverflow.com/questions/42931401/using-backgroundworker-with-progressbar-in-windowsform-with-different-classes
 
 
-5. datagridview
-    dataGridView1.BorderStyle = BorderStyle.None;
-    dataGridView1.AlternatingRowsDefaultCellStyle.BackColor = Color.FromArgb(238, 239, 249);
-    dataGridView1.CellBorderStyle = DataGridViewCellBorderStyle.SingleHorizontal;
-    dataGridView1.DefaultCellStyle.SelectionBackColor = Color.DarkTurquoise;
-    dataGridView1.DefaultCellStyle.SelectionForeColor = Color.WhiteSmoke;
-    dataGridView1.BackgroundColor = Color.White;
-
-    dataGridView1.EnableHeadersVisualStyles = false;
-    dataGridView1.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
-    dataGridView1.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(20, 25, 72);
-    dataGridView1.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
-
-6. title align
-private void UpdateTextPosition()
-{
-    Graphics g = this.CreateGraphics();
-    Double startingPoint = (this.Width / 2) - (g.MeasureString(this.Text.Trim(), this.Font).Width / 2);
-    Double widthOfASpace = g.MeasureString(" ", this.Font).Width;
-    String tmp = " ";
-    Double tmpWidth = 0;
-
-    while ((tmpWidth + widthOfASpace) < startingPoint)
-    {
-        tmp += " ";
-        tmpWidth += widthOfASpace;
-    }
-
-    this.Text = tmp + this.Text.Trim();
-}
-
-7. delivery count
+5. delivery count
 static void PreviewTest()
 {
     string html = string.Empty;
@@ -72,20 +41,10 @@ static void PreviewTest()
     Console.WriteLine(html);
 }
 
-8. web browser
-WebBrowser Control에서 내용이 많아지는 경우에만 스크롤이 보이도록 해주고 싶을 때 아래 참고.
-// 스크롤을 사용하기 위해 기본적으로 속성 설정을 해주고.
-ScrollBarsEnabled = "True"
-// DocumentCompleted 이벤트에 아래와 같이 스크롤 설정을 해준다.
-private void wbNotice_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
-{
-  this.wbNotice.Document.Body.Style = "overflow:auto";
-}
 
 
 
-
-
+--------------------------------------------------------------------------------
 (TrendSearch)
 0. 이슈
 - 상품 판매 마켓 표시는 어떻게??
@@ -98,19 +57,25 @@ private void wbNotice_DocumentCompleted(object sender, WebBrowserDocumentComplet
 - 데이터랩 키워드 긁어오기
 - 키워드별 월간 검색량 가져오기
 - 키워드별 네이버 상품 수 가져오기
+- 키워드별 네이버 상품 정보(상품명, 가격, 등록일, 누적리뷰수, 최근리뷰수, 마켓 정보) 가져오기
+- api key 설정 파일로? --> hard coding!
 
 2. doing
-- 키워드별 네이버 상품 정보(상품명, 가격, 등록일, 누적리뷰수, 최근리뷰수, 마켓 정보) 가져오기
 
 3. todo
-- 네아로
-- api key 설정 파일로 ?
 
 
 
+--------------------------------------------------------------------------------
+[[ SalesKing ]]
 
-<later check - 상품 수명주기에 따른 자동화 요소를 프로그램으로>
+목표)
+- 상품 수명주기에 따른 자동화 요소를 프로그램으로
+- 또는 쇼핑 관련 다양한 데이터를 제공하는 프로그램으로
+
+
 - 1.상품 선정(조사) -> 2.상품 소싱(확보) -> 3.상품 등록 -> 4.상품 판매 -> 5.상품 삭제
+- 0단계: 현재 시점 상위 쇼핑 검색어 보여주는...(예: 네이버 https://search.shopping.naver.com/best100v2/main.nhn )
 - 1단계: 데이터랩/키워드도구/쇼핑 스크래핑
 - 2단계: 국내도매사이트/해외알리바바 등등 검색. 퍼오기 또는 사입
 - 3단계: 카테고리 선정. 제품 사진 이미지. 상세 페이지 이미지 및 안내 문구. 상품명 태그
@@ -131,7 +96,6 @@ private void wbNotice_DocumentCompleted(object sender, WebBrowserDocumentComplet
     - 미국, 유럽, 일본 등지에서 유행하는 아이템은?
     - 이 아이템들은 얼마나 많이 팔리는가? (판매랑)
     - 이중에서 우리나라에 없는 아이템은?
-
 
 # 상품 소싱
   - 도매사이트 찾아보기
@@ -165,7 +129,6 @@ private void wbNotice_DocumentCompleted(object sender, WebBrowserDocumentComplet
 # 순위 관리
   - 내 상품 순위 보기
   - 경쟁 상품 순위 보기
-
 
 
 
