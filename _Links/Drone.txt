@@ -1,3 +1,4 @@
+
 //firmware open source
 - http://ardupilot.org/dev/index.html
 - https://github.com/PX4/Firmware
@@ -11,8 +12,24 @@
 
 //etc
 - http://www.arduino.org/
-- https://uavcoach.com/start/
+- https://uavcoach.com/start/     //<-- 미국커뮤니사이트
 
+
+
+[찾아볼 것]
+- 칼만 필터
+- GPS, RTK, Galileo
+- 주파수 호핑 기법
+- KC인증
+- simulink support package (MathWorks)
+
+
+
+
+
+
+////////==============================================////////
+//아래는 코딩교육/교재
 
 //for beginner(learn how to code)
 - https://drone-maverick.com/2018/06/20/3-drones-to-learn-how-to-code/
@@ -52,11 +69,3 @@
 [Trend]
 - https://www.steampoweredfamily.com/education/the-best-coding-toys-for-kids/
 - https://www.gearhungry.com/coding-toys-for-kids/
-
-
-[찾아볼 것]
-- 칼만 필터
-- GPS, RTK, Galileo
-- 주파수 호핑 기법
-- KC인증
-- simulink support package (MathWorks)
