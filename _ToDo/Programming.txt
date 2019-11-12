@@ -2,6 +2,19 @@
 [Language]
 # Python
 
+# Javascript
+  - document
+  - DOM
+  - window
+  - ajax
+  - cookie
+  - offline web application
+  - web RTC
+  - speech
+  - webGL
+  - webVR
+
+
 # Swift
 
 # Kotlin
@@ -19,7 +32,10 @@
 # Block Chain
 
 
-[Free tools]
+
+
+
+[Free tools] from nomadCoda Youtube
 기획
 http://trello.com/
 https://www.notion.so/

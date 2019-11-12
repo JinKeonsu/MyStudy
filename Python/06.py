@@ -1,5 +1,6 @@
 # www.glori.co.kr
 
+# from bs4 import BeautifulSoup
 from bs4 import BeautifulSoup
 import sys
 import io
