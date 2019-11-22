@@ -134,7 +134,7 @@ Let's move on to the next item on the agenda.
 
 
 [0501]
-The Hoffer Company still hasn't paid the bill, Thomas.
+The Hopper Company still hasn't paid the bill, Thomas.
 Still? Did you send a reminder?
 Yes, about 2 months ago.
 Maybe, I should send a second reminder.
@@ -186,7 +186,7 @@ That would be very helpful.
 [0701]
 Excuse me. Are you Ms. Jones?
 Yes, that's correct.
-Hi, I'm Minki Hong from ANW Securities Company.
+Hi, I'm MinKi Hong from ANW Securities Company.
 Hello, Mr. Hong.
 Hello, Ms. Jones. Welcome to Korea.
 Thanks. It's nice to be here. Well, I'm sorry I'm so late but my layover at Narita was longer than I had expected. I hope you haven't been waiting too long.
@@ -255,7 +255,7 @@ I apologize for any inconvenience.
 
 
 [0901]
-This is Mr. Davis from Jinju Corporation. May I speak to Ms. Cindy Jones please?
+This is Mr. Davis from JinJu Corporation. May I speak to Ms. Cindy Jones please?
 I'm sorry Mr. Lee but Ms. Jones stepped out for a moment. Would you like to leave a message?
 Yes, please. Could you ask her to call me back. I'm staying at the 4-Seasons Hotel. She can reach me at 889-5566. Room 800.
 May I tell her what it's regarding?
