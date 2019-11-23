@@ -1,40 +1,172 @@
-바로 처음부터 dialog 시작
-
 [0101]
 Oh, good afternoon!
 Good afternoon!
-We haven't met before. Have we? My name is Thomas Davis and I'm the new export sales manager.
+We haven't met before, have we? My name is Thomas Davis and I'm the new export sales manager.
 Oh, yes. I've heard a lot about you. I'm Cindy Jones, Mr. Brown's secretary. Nice to meet you.
 Pleased to meet you too. Is Mr. Brown at the office?
 Oh, yes. I'll let her know you are here right now. Please have a sit and wait for a moment.
 Okay, thank you.
 
+(useful expressions)
+We haven't met before, have we?
+I've heard a lot about you.
+Pleased to meet you too.
+Please have a sit and wait for a moment.
+
+[0102]
+Hello, my name is Cindy Jones. How do you do?
+It's a pleasure to meet you. I'm Tomas Davis.
+I'm sorry, I didn't quite catch your name. May I ask your last name again?
+Davis. Davis.
+Oh, I see Mr. Davis. Let me give you my card. Here you are.
+Oh, here's mine too.
+Thank you. Well then. Let's get down to business. Shall we?
+Sure.
+OK. I hope to see you again.
+I hope to see you again too.
+I will show you to the lobby.
+
+(useful expressions)
+I'm sorry, I didn't quite catch your name.
+Let me give you my card.
+Well, let's get down to business, shall we?
+I will show you to the lobby.
+
+
 [0201]
+ShinHwa Company. Can I help you?
+Hello, this is Thomas Davis from ABC Company calling. Could I speak to Mr. Kim?
+Hold on a moment please. Hello, I'm afraid he is not here at the moment. Would you like to leave a message?
+Yes, please. Could you ask him to call me back please?
+Sure. I'll pass a message to him.
+Thank you very much.
+My pleasure. Have a nice day.
+Good bye.
+
+(useful expressions)
+Could I speak to Mr. Kim?
+I'm afraid he is not here at the moment.
+Would you like to leave a message?
+Could you ask him to call me back please?
+
+[0202]
+Hello, SKY Products General Affairs Division. How may I help you?
+Hello, this is Thomas Davis of Super-Electric speaking. Could you confirm that you receive our samples?
+Oh, I'm afraid they haven't arrived yet.
+Well, we sent them to you by air mail on April 10.
+Strange. We haven't received them yet. Maybe, they got lost halfway. Would you mind sending us another set soon please? We need them rather urgently.
+All right. I'll send another set right away.
+Thank you.
+
+(useful expressions)
+How may I help you?
+I'm afraid they haven't arrived yet.
+We sent them to you by air mail on April 10.
+We need them rather urgently.
 
 
 [0301]
+Good morning! Miss...
+Im. Good morning.
+Miss Im. Yes, right. I reviewed your resume. You applied for the position of recruitment coordinator. Right?
+Yes, right.
+Could you tell me a bit about your strengths?
+I have a great sense of humor and ability to work with all types of people.
+How comfortable are you with your English communication skills?
+I'm quite fluent in English. I scored 900 on the TOEIC. And I studied English in Canada for a year.
+Oh, good.
+
+(useful expressions)
+I reviewed your resume.
+Could you tell me a bit about your strengths?
+How comfortable are you with your English communication skills?
+I'm quite fluent in English.
+
+[0302]
+Please, have a sit.
+Thank you.
+According to your resume, you've been with KNF Law-Firm for 2 years. Please, tell me about the work you've done at that firm.
+I worked as a legal secretary.
+What made you decide to leave that position?
+I want a job has more opportunities. I majored in English and I like a job which can use my English communication skills.
+I see. You would be mainly using English in this job. So you are confident you can handle telephone calls in English?
+Yes, I am.
+That's good. I'll be in touch with you within a few days.
+Thank you for your time and I'll look forward to hearing from you soon.
+
+(useful expressions)
+I worked as a legal secretary.
+What made you decide leave that position?
+I'll be in touch with you within a few days.
+I'll look forward to hearing from you soon.
 
 
 [0401]
+Oh, good morning Mr. Davis. Come in!
+Hello, Ms. Jones. Nice to meet you.
+Nice to finally meet you face to face instead of on the phone. How are you?
+Going well. Thank you. How's it going?
+Good. We just open a new branch in Australia.
+Wow, wonderful. Congratulations!
+Thanks. Would you like to have some coffee or tea?
+Coffee, please.
+How would you like your coffee?
+I'd like it black, please.
+
+(useful expressions)
+Nice to finally meet you face to face.
+Would you like to have some coffee or tea?
+How would you like your coffee?
+I'd like it black, please.
+
+[0402]
+A: May I have your attention please? It's time to start everyone. Now, the first item on the agenda is the discussion of the manager's proposal on flexible working hours. Well, Ms. Jones, would you like to start first?
+B: Let me begin by saying that most peoples in our department are satisfied with the present system. We think a change would be dangerous.
+C: I'm sorry but I'm not quite with you. I feel that by offering flexible working hours lead the management will be showing our employees that we are willing to work with them not against them.
+D: Personally, I am in favor of the plan. But, I think we'd better wait for more details. And then, we should bring the matter to a vote.
+A: Are there any other points relating to this proposal? No? Then, let's move on to the next item on the agenda.
+
+(useful expressions)
+May I have your attention please?
+It's time to start.
+I'm sorry but I'm not quite with you.
+Let's move on to the next item on the agenda.
 
 
 [0501]
+The Hopper Company still hasn't paid the bill, Thomas.
+Still? Did you send a reminder?
+Yes, about 2 months ago.
+Maybe, I should send a second reminder.
+You're right. They need that. I'll fax it for you.
+
+(useful expressions)
+Did you send a reminder?
+I should send a second reminder.
+They need that.
+I'll fax it for you.
 
 
-[0601] 1:05 ~ 4:24
-Neilson publishing company, Cindy Jones speaking.
+[0601]
+Neilson Publishing Company, Cindy Jones speaking.
 Hello, this is Thomas Davis.
 Hello, Mr. Davis. How are you?
-Fine thanks. I'm phoning about the fax you sent me yesterday.
+Fine, thanks. I'm phoning about the fax you sent me yesterday.
 Ah, good. I was just about to call you about that.
 I wish to order about 2000 of new books. Could you let me know what the discount rate is like for an order of 100 more?
-We can offer you a 40% discount. The rate can only be applied to international trade account. If you want to know about the price and payment terms in detail, you'd better contact our account manager Karen.
-I see. Thank you very much. It's nice talking you. Good bye!
+We can offer you a 40% discount. The rate can only be applied to international trade account. If you want to know more about the price and payment terms in detail, you'd better contact our account manager Karen.
+I see. Thank you very much. It's nice talking to you. Good bye!
 Bye, Mr. Davis!
 
-[0602] 14:28 ~ 18:19
-Account department, Cindy Jones speaking.
-Hello, this is James Jung with Star company in Korea.
+(useful expressions)
+I'm phoning about the fax you sent me yesterday.
+I was just about to call you about that.
+We can offer you a 40% discount.
+You'd better contact our account manager.
+
+[0602]
+Account Department, Cindy Jones speaking.
+Hello, this is James Jung with Star Company in Korea.
 Hi, Mr. Jung! I was told to expect your call from our international sales manager. How can I help you?
 Could you tell me about your payment terms for your new books?
 Yes, of course. New accounts are subject to a pre-payment or letter of credit refund first order. Payment must be made by an irrevocable letter of credit confirmed on TD Bank which must be valid for 120 days from the date of your order.
@@ -44,13 +176,158 @@ That would be very helpful. Thank you very much.
 You're very welcome. Bye, Mr. Davis!
 Bye, Ms. Jones!
 
+(useful expressions)
+Could you tell me about your payment terms for your new books?
+Let me just make a note of that.
+You don't have to do that.
+That would be very helpful.
+
+
 [0701]
+Excuse me. Are you Ms. Jones?
+Yes, that's correct.
+Hi, I'm MinKi Hong from ANW Securities Company.
+Hello, Mr. Hong.
+Hello, Ms. Jones. Welcome to Korea.
+Thanks. It's nice to be here. Well, I'm sorry I'm so late but my layover at Narita was longer than I had expected. I hope you haven't been waiting too long.
+No. Don't worry. Your manager phone me this morning to let me know that your flight would be delayed at least 2 hours. How was your flight by the way?
+Not too bad. Thanks.
+I'm sure you are exhausted. Why don't you go to your hotel first? My car is parked just outside.
+That's a good idea.
+Can I take one of your bags?
+Thank you.
+
+(useful expressions)
+I hope you haven't been waiting too long.
+How was your flight by the way?
+My car is parked just outside.
+Can I take one of your bags?
+
+[0702]
+I reserved a room for you at the Hotel Ritz Carlton.
+Thank you for going through the trouble.
+It was no trouble at all. After we get to the hotel, would you like to have dinner with me?
+Fine. But before that, I'd like to unpack and wash up a little.
+Shall we meet around 6?
+This is the schedule for tomorrow. I'll arrange a car to pick you up from the hotel. Would 10 A.M be all right?
+That would be fine. Thank you for your hospitality.
+
+(useful expressions)
+Thank you for going through the trouble.
+Would you like to have dinner with me?
+Shall we meet around 6?
+Thank you for your hospitality.
 
 
 [0801]
+Schwartz Company! Good afternoon?
+May I speak to Thomas Davis in international marketing?
+Certainly, I'll connect you.
+Thomas Davis.
+Hello, this is Cindy Jones of Asia International.
+Hi, Jones. What can I do for you?
+It's regarding our order of your new computer software package. I ordered 100 packages 6 weeks ago by mail order. But they haven't arrived yet. I've tried to reach you several times but have not been able to get through. Could you do something about this right away please?
+One moment please. Let me check your order on the computer. Oh, dear! I've forgotten to send you the packages. I'm terribly sorry about this. It's certainly my fault. I'll send them right away. I'm so sorry again.
+Oh, that's all right.
+
+(useful expressions)
+I'll connect you.
+I've tried to reach you several times.
+Could you do something about this right away please?
+I've forgotten to send you the packages.
+
+[0802]
+Good morning. Asia International, may I help you?
+Hello, this is Thomas Davis from Schwartz Company.
+Hello, Davis.
+Well, I'm sorry to bother you again. I sent the packages you ordered by air mail yesterday. But there's one problem.
+What's the problem?
+We had only 90 packages in stock. So, I sent you only the 90 packages yesterday. I'm very sorry. If you'd like I'll just call to our other branches to see if they have any in their inventory.
+Oh, no. The delivery has already been delayed far too long. I prefer a refund for the remaining 10 packages.
+Of course. I refund sum of 1000 dollars on the forms of international money order. Again, I apologize for any inconvenience. I would like to offer you special discount of 10% on your next order.
+That will be fine. I'll contact you when we are ready to place an order. Good bye, Mr. Davis.
+
+(useful expressions)
+I'm sorry to bother you again.
+We had only 90 packages in stock.
+I prefer a refund for the remaining 10 packages.
+I apologize for any inconvenience.
 
 
 [0901]
+This is Mr. Davis from JinJu Corporation. May I speak to Ms. Cindy Jones please?
+I'm sorry Mr. Lee but Ms. Jones stepped out for a moment. Would you like to leave a message?
+Yes, please. Could you ask her to call me back. I'm staying at the 4-Seasons Hotel. She can reach me at 889-5566. Room 800.
+May I tell her what it's regarding?
+I was just calling to see if she would be free for lunch tomorrow.
+I'm afraid that wouldn't be possible.
+Oh, why is that?
+Ms. Jones is off tomorrow.
+When might she be available?
+She is free for lunch this Friday.
+That will be fine.
+
+(useful expressions)
+I'm sorry Mr. Lee but Ms. Jones stepped out for a moment.
+She can reach me at 889-5566. Room 800.
+May I tell her what it's regarding?
+When might she be available?
+
+[0902]
+Excuse me. Are you Ms. Jones?
+Yes.
+You have a phone call.
+Thank you. Hello, this is Cindy Jones.
+Ms. Jones? Hi, this is James Davis. I'm so sorry but I might be a little late. I'm unavoidably detained.
+No need to apologize. These things happen. How much longer do you think it will take?
+I can be there in 30 minutes.
+I don't mind waiting.
+Then, I'll be there at the speed of light. See you.
+
+(useful expressions)
+You have a phone call.
+I might be a little late.
+I'm unavoidably detained.
+No need to apologize.
 
 
 [1001]
+Hi, Mr. Thomas. This is Cindy Jones at City International Bank.
+Hi, Ms. Jones. How have you been?
+Fine, thank you for asking. And you?
+Oh, I can't complain.
+Listen. I know someone who is interested in your product.
+Oh, really? What's his name and where is he work?
+His name is Eddie Johnson and he works for Fun Times Corp. in the international sales department. Do you have a pen handy?
+Yes, I'm ready.
+His number is area code 213 888 0000, extension 333. Did you get all that?
+Yes, thank you. I'm in the middle of a meeting right now. But I'll give him a call --- sooner some done---.
+Good luck. I hope our works out.
+Thanks again. If I make the sale, the credit go to you.
+I'm just glad I can help. But if you want, you can take me a to --- lunch one of these days.
+That's the least I could do.
+
+(useful expressions)
+Oh, I can't complain. 별로 불만없이 잘 지내고 있다.
+Do you have a pen handy?
+Did you get all that?
+That's the least I could do. 그 정도는 해드려야죠
+
+[1002]
+ABC International Corporation. May I help you?
+This is Thomas Davis. Can I speak to Ms. Cindy Jones?
+Hello, Mr. Davis. This is Cindy Jones.
+Oh, hello Ms. Jones. Can I confirm the time of the presentation scheduled on tomorrow morning? What time is it exactly?
+The presentation itself will start at 10 and go on till 12.
+Oh, I see. Is there an OHP(Over Head Projector) in conference room? I need it.
+Of course. The technician will be with you and you are setting everything up.
+Sounds good. Well, do you have any idea how many people are attending the meeting?
+About 10.
+Oh, I see. Thank you very much. Good bye, then.
+It's my pleasure, bye.
+
+(useful expressions)
+Can I confirm the time of the presentation?
+The presentation itself will start at 10 and go on till 12.
+The technician will be with you.
+Do you have any idea how many people are attending the meeting?
