@@ -1,18 +1,19 @@
 [0101]
+------------------------------------------------------------------
 Let's check out a movie tonight.
 Sure. What's out these days?
-Well, several movies but I feel like seeing a romantic comedy.
+Well, several movies. But I feel like seeing a romantic comedy.
 I want to see an action flick.
 No, I'm not in the mood for mindless action movies. I want to see something that really hits home.
 How about a horror film? I hear Scream 3 is a must see.
 Right. My friend Collin said it was so scary that she was on the edge of the seat.
-
 ------------------------------------------------------------------
 - flick: 영화
 ------------------------------------------------------------------
 
 
 [0102]
+------------------------------------------------------------------
 May I help you?
 Hi. Let me have two large sodas, popcorn and nachos. Please.
 Your total comes to $8.95(8 dollars and 95 cents).
@@ -20,13 +21,13 @@ Thanks. Do you know if the movie started already?
 I think it's just about to start. You can just make it. I'll take some tissues if I were you.
 Why?
 I heard it's a real tear-jerker.
-
 ------------------------------------------------------------------
 - tear-jerker: 눈물을 짜게 하는 것
 ------------------------------------------------------------------
 
 
 [0201]
+------------------------------------------------------------------
 When is your company throwing the holiday bash?
 Oh, it's this coming Friday. Would you like to be my date?
 Where is it held this year?
@@ -34,70 +35,78 @@ It's being held at the Ritz Carlton in Costa Mesa.
 Wow, your company sure knows how to throw a party.
 Yeah. They made force us to work like dogs but there are some good things as well.
 Yeah. You can count me in. I'll be your date as long as you are picking up the tab.
-
 ------------------------------------------------------------------
 - bash: 파티
+- count me in: (나를)끼워주다, 넣어주다 => ex: Count me in for the party.(파티에 나도 넣어줘)
+- pick up the tab: 셈을 치르다, 비용을 부담하다
 ------------------------------------------------------------------
 
 
 [0202]
+------------------------------------------------------------------
 Joseph must be on cloud nine.
 Yeah, he really worked like a dog to get that promotion.
 Speaking of the devil. Here he comes now.
 Hey, guys. I got the promotion and raise.
 And the raise? Congratulations, Joseph!
 Thanks, drinks are on me.
+------------------------------------------------------------------
+- on me: 나에게, 내가 => ex: It's on me.(내가 살게)
+------------------------------------------------------------------
 
 
 [0301]
+------------------------------------------------------------------
 Who do you take after your mother or your father?
 I'm like my mother.
 So, beauty and brains run in the family, right?
 You think so?
 By the way, your younger sister seems awfully shy. She is as quiet as a mouse.
 Only when you're around. I think she has a crush on you. She is usually at chatter box around our house.
-
 ------------------------------------------------------------------
 - awfully: 아주, 몹시, 지독히
+- have a crush on: ~에게 홀딱 반하다
 ------------------------------------------------------------------
 
 
 [0302]
+------------------------------------------------------------------
 Who do you wish you took after in your family?
 I wish I were as smart as my aunt Susan, because she is a book worm. And I wish I were as clever as my aunt Judy, because she is as sharp as a tack. And I hope I can stay as healthy as my grandmother, she is 80 years old and as fit as a fiddle.
 Who don't you want to be like?
 My father. Because he is as hard as nails. He never lets me drive.
-
 ------------------------------------------------------------------
 - as sharp as a tack: 머리가 아주 좋은, 기지가 좋은
+- fiddle: 피들(현악기), (비격식)바이올린
 - as fit as a fiddle: 몸이 탄탄하고 건강한, 정정한
 - as hard as nails: 매우 엄격한
 ------------------------------------------------------------------
 
 
 [0401]
+------------------------------------------------------------------
 You'll be late for work.
 I didn't sleep a wink last night.
-You will be refresh after a hot shower.
+You'll feel refresh after a hot shower.
 I guess I'd better shake a leg.
 The early bird catches the worm.
 Okay mom, I gotta go. I'm running late.
 What about your breakfast?
 Sorry mom. I'll just grab a bite to eat before I get to the office.
-
 ------------------------------------------------------------------
 - shake a leg: 서두르다
 - I'm running late: 나 늦을것 같애
+- grab a bite to eat: 간단히 먹다
 ------------------------------------------------------------------
 
 
 [0402]
+------------------------------------------------------------------
 I've gotta be an early bird and get up at the crack of dawn. I'm meeting my attorney over breakfast at 7 in the morning.
-Are you telling me you are busy again? I thought we are going away this weekend.
+Are you telling me you are busy again? I thought we're going away this weekend.
 Oh, I'm really sorry honey. I'll make it up to you somehow.
 It's okay. I understand.
 Thanks.
-
 ------------------------------------------------------------------
 - crack of dawn: 새벽, 이른 아침
 - attorney: 변호사
@@ -105,49 +114,53 @@ Thanks.
 
 
 [0501]
+------------------------------------------------------------------
 Hi, Carol. I have to drop by your office this afternoon. Could you tell me how to get there?
 No problem. Where are you coming from?
 I'm coming from the west side of town.
 Oh, you are only a half away from me. You will pass 3 signals and the 4th signal is Grand Avenue. My building is on the northeast corner of Second and Grand. Kitty-corner from the Hyatt Hotel. You got all that?
-
 ------------------------------------------------------------------
 - kitty-corner: 대각선상에
 ------------------------------------------------------------------
 
 
 [0502]
+------------------------------------------------------------------
 A piece of cake. I'll see you around 3 o'clock. Oh, I almost forgot. My head been in the clouds all day. Where should I park?
 Oh, there is a parking lot under neath the building. You can enter from Grand. And my receptionist will validate your parking ticket.
 Thanks.
+------------------------------------------------------------------
+- in the clouds: 하늘 높이, 멍하니, 공상에 잠겨
+------------------------------------------------------------------
 
 
 [0601]
+------------------------------------------------------------------
 I heard that Charles proposed to Christine.
 Finally, he was up to minds about marriage for so long. They've been going out for more than 2 years. I think it's about time they tied or not. If Charles doesn't marry her this time, someone else will sooner or later.
-
 ------------------------------------------------------------------
 - sooner or later: = soon 곧
 ------------------------------------------------------------------
 
 
 [0602]
+------------------------------------------------------------------
 I wonder if their marriage will last. Charles is not a man of means yet. Do you think he can keep her happy?
 Let's give Christine the benefit of the doubts. He knows she is really humble and nice.
 I sure hope he stays on the right track.
 I know. He'd better realize how lucky he is to have a girl like that.
-
 ------------------------------------------------------------------
 - give ~ the benefit of the doubts: 우선 ~ 믿어보자.
 ------------------------------------------------------------------
 
 
 [0701]
+------------------------------------------------------------------
 I'm so hungry. I can eat a horse. Let's go get a bite.
 What do you want to have?
 I'm sick and tired of Chinese foods. That's all I've been eating these days.
 I know a great Italian restaurant. Their clam sauce is something to die for. And their desserts are also superb. Just talking about it, it's already making my mouth water.
 What are we waiting for? Let's go.
-
 ------------------------------------------------------------------
 - clam: 조개(대합류)
 - superb: 훌륭한, 우수한, 초일류, 최상급
@@ -155,33 +168,94 @@ What are we waiting for? Let's go.
 
 
 [0702]
+------------------------------------------------------------------
 I love Korean food because I like spicy food.
 Then, you should go and try Thai food. I'm sure you'll like it.
 Do either of you like bland dishes?
-Japanese food is pretty bland but I like it. I have a crazing(?) for sushi now.
+Japanese food is pretty bland but I like it. I have a craving for sushi now.
 Not for me. Bulgogi will really hit the spot.
-
 ------------------------------------------------------------------
 - bland: 밋밋한
+- crave for: 간절히 원하다, 갈망하다
+- hit the spot: 꼭 맞다, 만족시키다, 더할 나위 없다
 ------------------------------------------------------------------
-
 
 
 [0801]
+------------------------------------------------------------------
+I heard it through the great fine that Mary and Joe are getting a divorce.
+That's terrible.
+Joe gave her 2 choices. Either she quits her job or they get a divorce.
+What? What a chauvinist? I don't blame her for not quitting her job.
+I agree. These days 2 income families are so common.
+True. I hope they can work it out.
+------------------------------------------------------------------
+- chauvinist: 광신(맹목)적 애국자, 광신적 성 차별주의
+------------------------------------------------------------------
 
 
 [0802]
-
+------------------------------------------------------------------
+Did you hear that Carol and Brad are splitting up?
+That's news to me. They seem so happy together. Why are they breaking up?
+Their relationship started to going down hill when Carol began talking about marriage. Brad isn't ready to get married.
+All men are the same. He just can't make a commitment.
+Well, I can't argue with you there. Let's just hope they can work it out.
+------------------------------------------------------------------
 
 
 [0901]
+------------------------------------------------------------------
+Those shoes are absolutely gorgeous.
+Thank you.
+They must have cost you an arm and a leg.
+Actually, they were mark-down 50%.
+You are pulling my legs. Do you think they've been sold out? I want to buy some too.
+As a matter of fact, I got the last pair.
+No wonder. You got a really great deal.
+------------------------------------------------------------------
+- gorgeous: 화려한, 아주 멋진
+------------------------------------------------------------------
 
 
 [0902]
-
+------------------------------------------------------------------
+Thats a nice set of wheels you got there.
+Thanks. I just bought it yesterday.
+By the looks of it, it must have cost you an arm and a leg.
+Yep. I definitely had to reach deep into my pocket. It costs me a fortune.
+Well. If it makes you feel any better, I'm green with envy.
+Thanks. You only live once.
+That's right.
+------------------------------------------------------------------
+- green with envy: 몹시 부러운, full of desire for someone's possessions or advantages
+------------------------------------------------------------------
 
 
 [1001]
+------------------------------------------------------------------
+Melanie told me that Melvin actually asked you out, but you turned him down.
+He's such a womanizer and he's full of himself. I wouldn't give him a chance.
+Do you have a screw-loose? My heart is pitapat when he is around me. He is so good looking and he has great tasting in clothes.
+Well, it sounds like you are already head over heels in love with him. Why don't you ask him out?
+I'm afraid of getting hurt.
+------------------------------------------------------------------
+- screw-loose: 웃기는 놈, 정신 나간 놈
+- pitapat: (심장이)두근두근
+- head over heels: 거꾸로, 강렬히, 격력하게, 완전히
+------------------------------------------------------------------
 
 
 [1002]
+------------------------------------------------------------------
+What's up? You seem a little hot under the collar.
+The boss is really getting under my skin now. He says he doesn't have time to see me.
+Why won't he see you?
+Ever since I requested a raise, he hasn't given me any chance to see him.
+Um. The company softball game is scheduled on this Saturday. Why don't you try to talk to him there? I'm sure he'll control his temper in front of the entire company.
+You're right. Between now and then, I'll just keep my shirt on.
+------------------------------------------------------------------
+- hot under the collar: 화를 내어, 흥분하여, 당황하여
+- get under someone's skin: (강하게)괴롭히다, 귀찮게하다, 곤란하게하다
+- keep someone's shirt on: 조용하게 지내다, (패닉 또는 흥분 상태를)억제하고 지내다
+------------------------------------------------------------------

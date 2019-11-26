@@ -1,6 +1,11 @@
+징 음악 소리 제거
+천천히 발음하는 부분 제거
+반복 부분 제거
+기타 공백 부분 제거
+
 [0101] 103-254, 1230-1259
 May I have your name?
-Sandy.
+Sandy. I'm Sandy.
 Where are you from?
 I'm from America.
 How long have you been in Korea?
@@ -84,7 +89,7 @@ Absolutely.
 
 [0601]
 What cities have you been to in Korea?
-I've been to Pusan.
+I've been to Busan.
 What did you think of it?
 I was very impressed. There were a lot of interesting things there. People were also very friendly.
 Was there anything that made you embarrassed?
