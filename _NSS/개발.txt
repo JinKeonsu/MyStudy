@@ -27,6 +27,10 @@ https://stackoverflow.com/questions/54984185/webpage-is-detecting-selenium-webdr
 https://stackoverflow.com/questions/33225947/can-a-website-detect-when-you-are-using-selenium-with-chromedriver
 https://stackoverflow.com/questions/40750049/some-websites-block-selenium-webdriver-how-does-this-work
 https://stackoverflow.com/questions/53039551/selenium-webdriver-modifying-navigator-webdriver-flag-to-prevent-selenium-detec
+
+
+- sendkeys
+https://www.guru99.com/accessing-forms-in-webdriver.html
 /////
 
 
