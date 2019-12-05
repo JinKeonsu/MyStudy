@@ -20,14 +20,20 @@ C#)
 
 
 ///// 109.band scraping
-https://intellitect.com/selenium-chrome-csharp/
+- browser hide(silent mode)
+https://stackoverflow.com/questions/18702533/how-to-execute-selenium-chrome-webdriver-in-silent-mode
+https://stackoverflow.com/questions/45233065/how-to-hide-firefoxdriver-using-selenium-without-findelement-function-error-in
+https://sqa.stackexchange.com/questions/2609/running-webdriver-without-opening-actual-browser-window
 
-https://stackoverflow.com/questions/49583137/python-selenium-web-driver-with-chrome-driver-gets-detected
-https://stackoverflow.com/questions/54984185/webpage-is-detecting-selenium-webdriver-with-chromedriver-as-a-bot
-https://stackoverflow.com/questions/33225947/can-a-website-detect-when-you-are-using-selenium-with-chromedriver
-https://stackoverflow.com/questions/40750049/some-websites-block-selenium-webdriver-how-does-this-work
-https://stackoverflow.com/questions/53039551/selenium-webdriver-modifying-navigator-webdriver-flag-to-prevent-selenium-detec
 
+- console hide
+https://stackoverflow.com/questions/11501623/chromedriver-console-application-hide
+https://thebot.net/threads/c-hide-process-using-a-specific-handle-for-chrome.401400/
+
+
+- launch chrome with url
+https://gist.github.com/fredrikhaglund/43aea7522f9e844d3e7b
+https://stackoverflow.com/questions/40859957/open-a-new-window-of-google-chrome-from-c-sharp
 
 - sendkeys
 https://www.guru99.com/accessing-forms-in-webdriver.html
