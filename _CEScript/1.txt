@@ -272,7 +272,7 @@ Go straight and turn left at the corner you can find it on your right-hand side.
 Thank you.
 
 [1602]
-Does this shop sells washing-machine?
+Does this shop sell washing-machine?
 Yes, this is the newest model.
 Can you show me how it works?
 Okay. Here are some dirty shirts. You put them in the machine and shut the door then you push this button. ... Ah, it's finished now.
