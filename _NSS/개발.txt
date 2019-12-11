@@ -20,16 +20,6 @@ C#)
 
 
 ///// 109.band scraping
-- browser hide(silent mode)
-https://stackoverflow.com/questions/18702533/how-to-execute-selenium-chrome-webdriver-in-silent-mode
-https://stackoverflow.com/questions/45233065/how-to-hide-firefoxdriver-using-selenium-without-findelement-function-error-in
-https://sqa.stackexchange.com/questions/2609/running-webdriver-without-opening-actual-browser-window
-
-
-- console hide
-https://stackoverflow.com/questions/11501623/chromedriver-console-application-hide
-https://thebot.net/threads/c-hide-process-using-a-specific-handle-for-chrome.401400/
-
 
 - launch chrome with url
 https://gist.github.com/fredrikhaglund/43aea7522f9e844d3e7b
