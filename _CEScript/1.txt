@@ -227,7 +227,7 @@ Right. By the way, who is your favorite movie star?
 My favorite movie star is Tom Cruise. I've seen all of his movies. I'm really a big fan of his.
 
 [1401]
-Do you want to me to take a picture of you?
+Do you want me to take a picture of you?
 Yes, please.
 How does this camera work?
 Just push the button.
@@ -256,7 +256,7 @@ Wonderful! Let's go.
 
 [1502]
 Was the meal okay?
-Sure, thank you for treating me. Hmm... By the way, it was not too much could you drop me off in front of my house?
+Sure, thank you for treating me. Hmm... By the way, if it's not too much could you drop me off in front of my house?
 Certainly, can we stop by the bank for a while before that?
 Sure, I need to make a deposit today too.
 Great! I'm going to open a bank account.
