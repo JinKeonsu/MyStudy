@@ -29,7 +29,7 @@ Oh, I'm sorry to bother you. Bye.
 
 [0202]
 Blue Cafe, can I help you?
-Hi, this is Jim and I just got the message. Can I speak to Mr. John.
+Hi, this is Jim and I just got the message. Can I speak to Mr. John?
 Can you hold for a moment?
 Sure, thank you.
 If there is Mr. John. Please, walk up to the counter.
@@ -66,7 +66,7 @@ Sure, Mr. Black.
 [0402]
 Are you checking out?
 Yes, here is the key.
-Thank you, room 319. Your bills comes out to 532 dollars. Would you check and sign on it?
+Thank you, room 319. Your bill comes out to 532 dollars. Would you check and sign on it?
 Sure, here it is.
 Thank you for staying.
 I've enjoyed my stay very much.

@@ -4,52 +4,25 @@ C#)
 - https://stackoverflow.com/questions/36076924/how-can-i-display-a-loading-control-while-a-process-is-waiting-for-be-finished
 -
 
-2. Regular Expressions
-- If you have intermixed non-digit characters (i.e. 1231a23v) and want to keep every digit, use the regex [^\d] to replace non-digit characters.
-- https://stackoverflow.com/questions/11499159/how-to-extract-number-from-string-c-sharp
-- https://www.dotnetperls.com/regex-split-numbers
-
-3. DateTime related...
-- DateTime result = DateTime.ParseExact(yourdatestring, "yy/MM/dd h:mm:ss tt", CultureInfo.InvariantCulture);
-- https://www.c-sharpcorner.com/UploadFile/manas1/string-to-datetime-conversion-in-C-Sharp/
-
-4. async task
+2. async task
 - https://docs.microsoft.com/ko-kr/dotnet/csharp/async
 - https://www.youtube.com/watch?v=2moh18sh5p4
 - https://stackoverflow.com/questions/42931401/using-backgroundworker-with-progressbar-in-windowsform-with-different-classes
 
+3. Uri image download
+- https://stackoverflow.com/questions/34463581/how-to-download-all-images-from-a-site-on-the-c-sharp-htmlagilitypack
 
-///// 109.band scraping
+4. image size
+- https://stackoverflow.com/questions/6455979/how-to-get-the-image-dimension-from-the-file-name
 
-- launch chrome with url
-https://gist.github.com/fredrikhaglund/43aea7522f9e844d3e7b
-https://stackoverflow.com/questions/40859957/open-a-new-window-of-google-chrome-from-c-sharp
 
-- sendkeys
-https://www.guru99.com/accessing-forms-in-webdriver.html
-/////
 
 
 
 --------------------------------------------------------------------------------
 (TrendSearch)
 0. 이슈
-- 상품 판매 마켓 표시는 어떻게??
---> 하나인 경우에는 네이버스마트스토어(스토어명),
---> 그룹인 경우에는 1등인 몰 정보
 
-1. done
-- 프로그램 기본 틀
-- 데이터랩 페이지 띄우기
-- 데이터랩 키워드 긁어오기
-- 키워드별 월간 검색량 가져오기
-- 키워드별 네이버 상품 수 가져오기
-- 키워드별 네이버 상품 정보(상품명, 가격, 등록일, 누적리뷰수, 최근리뷰수, 마켓 정보) 가져오기
-- api key 설정 파일로? --> hard coding!
-
-2. doing
-
-3. todo
 
 
 
