@@ -18,6 +18,8 @@ C#)
 5. WebDriver Related
 - page load waiting: https://stackoverflow.com/questions/43203243/how-to-get-webdriver-to-wait-for-page-to-load-c-selenium-project
 
+6. Get img src from html
+- https://social.msdn.microsoft.com/Forums/en-US/81f027d8-f7f5-47bd-860d-47128542be2a/get-all-the-ltimg-srcquotquotgt-tag-in-a-webpage?forum=regexp
 
 
 --------------------------------------------------------------------------------
