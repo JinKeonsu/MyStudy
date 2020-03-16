@@ -97,19 +97,31 @@ static void TestHttpPost3()
 
 
 
+1. gif and threading
+- https://stackoverflow.com/questions/31338288/animated-gif-in-windows-form-while-executing-long-process
+- https://stackoverflow.com/questions/36076924/how-can-i-display-a-loading-control-while-a-process-is-waiting-for-be-finished
+-
 
+2. async task
+- https://docs.microsoft.com/ko-kr/dotnet/csharp/async
+- https://www.youtube.com/watch?v=2moh18sh5p4
+- https://stackoverflow.com/questions/42931401/using-backgroundworker-with-progressbar-in-windowsform-with-different-classes
 
+3. Uri image download
+- https://stackoverflow.com/questions/34463581/how-to-download-all-images-from-a-site-on-the-c-sharp-htmlagilitypack
 
+4. image size
+- https://stackoverflow.com/questions/6455979/how-to-get-the-image-dimension-from-the-file-name
 
-iOS BLE
-https://codeburst.io/getting-started-with-bluetooth-low-energy-on-ios-ada3090fc9cc
+5. WebDriver Related
+- page load waiting: https://stackoverflow.com/questions/43203243/how-to-get-webdriver-to-wait-for-page-to-load-c-selenium-project
 
-GAP
-  - 1:N
-  - broadcasting
+6. Get img src from html
+- https://social.msdn.microsoft.com/Forums/en-US/81f027d8-f7f5-47bd-860d-47128542be2a/get-all-the-ltimg-srcquotquotgt-tag-in-a-webpage?forum=regexp
 
-GATT
-  - 1:1
-  - connected & transfer complex data
+7. VBA RegEx
+- https://www.automateexcel.com/vba/regex/
+- https://stackoverflow.com/questions/22542834/how-to-use-regular-expressions-regex-in-microsoft-excel-both-in-cell-and-loops
 
-service UUID & characteristic UUID
+8. Image split
+- https://stackoverflow.com/questions/13625891/cut-an-image-into-9-pieces-c-sharp
