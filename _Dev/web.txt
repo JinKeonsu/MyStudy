@@ -1,2 +1,21 @@
 
 - free web site builder: https://www.strikingly.com/
+
+
+- 서버의 연결 속도 측정 방법 - http://ipconfig.tools/en/ping
+
+- 서버에 Apache PHP 설치하는 방법 - https://blog.lael.be/post/8319
+
+- 서버에 Nginx PHP 설치하는 방법 - https://blog.lael.be/post/2600
+
+- 무료로 HTTPS 보안인증서를 발급받는 방법 - https://blog.lael.be/post/5107
+
+- 무료 도메인 발급받는 방법 - https://blog.lael.be/post/6070
+
+- 유료로 저렴하게 도메인 구매하는 방법 - https://blog.lael.be/post/6357
+
+- 서버 백업 설정 방법 - https://blog.lael.be/post/1449
+
+- 나만의 GIT 서버를 구축하고 프로젝트에 적용하는 방법 - https://blog.lael.be/post/5476
+
+- 해외 서버의 다운로드 속도 테스트 페이지 (https://www.linode.com/speedtest)
