@@ -1,3 +1,15 @@
+
+[네이버스마트스토어]
+//판매자상품코드, 도매처, 도매처상품코드, 스마트스토어상품명
+GP15104, 그린피플, 15104, 브리지스톤 TOUR B XS 3피스 골프공 1dz(12개) 타이거우즈볼 골프볼 화이트
+GP14447, 그린피플, 14447, 스릭슨 SOFT FEEL LADY 2피스 골프공 1dz(12개) 골프볼 화이트
+GP14445, 그린피플, 14445, SRIXON SOFT FEEL 2피스 골프공 1dz(12개) 스릭슨골프공 골프볼 화이트
+
+
+
+
+
+
 [공급사]
 https://ownerclan.com/V2/product/search.php?topSearchKeyword=2010015100 (**)
 https://ownerclan.com/V2/product/search.php?topSearchKeyword=2010011289 (*)
