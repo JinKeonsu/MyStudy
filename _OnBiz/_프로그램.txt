@@ -3,13 +3,16 @@
 (TrendSearch)
 #0. C# Crawling basic
  - https://www.csharpstudy.com/web/article/16-HttpWebRequest-%ED%99%9C%EC%9A%A9
- 
+
 
 #1. 해당 검색어로 검색한 결과, 1 페이지 상품 검색 시 스크롤
  - https://stackoverflow.com/questions/990651/how-to-scroll-to-end-of-system-windows-forms-webbrowser
  - https://www.codeproject.com/Questions/5277328/How-do-I-web-browser-scroll-bottom-programmaticall
 
 
+#2. 진행중 표시
+ - http://kimstar.kr/1564/
+ - https://m.blog.naver.com/PostView.nhn?blogId=pcocv&logNo=220112666717&proxyReferer=https:%2F%2Fwww.google.com%2F
 
 
 
